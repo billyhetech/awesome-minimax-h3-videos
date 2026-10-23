@@ -2820,7 +2820,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/juliaclarky-606823/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/juliaclarky-606823/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/juliaclarky-606823/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/juliaclarky-606823/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 61466,
+   "bytes": 8182197,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "baskojpeg-509914",
@@ -2836,7 +2848,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/baskojpeg-509914/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/baskojpeg-509914/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/baskojpeg-509914/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/baskojpeg-509914/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 49834,
+   "bytes": 3199177,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "kanaworks-ai-108939",
@@ -2852,7 +2876,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kanaworks-ai-108939/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kanaworks-ai-108939/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kanaworks-ai-108939/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kanaworks-ai-108939/poster.jpg",
+   "width": 1294,
+   "height": 720,
+   "duration_ms": 131587,
+   "bytes": 29660940,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "mi7-crypto-681823",
@@ -2868,7 +2904,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi7-crypto-681823/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi7-crypto-681823/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi7-crypto-681823/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi7-crypto-681823/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15041,
+   "bytes": 3718228,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "shamiweb3-264462",
@@ -2884,7 +2932,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/shamiweb3-264462/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/shamiweb3-264462/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/shamiweb3-264462/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/shamiweb3-264462/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 3406885,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "xanderwow-a-885902",
@@ -2900,7 +2960,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/xanderwow-a-885902/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/xanderwow-a-885902/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/xanderwow-a-885902/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/xanderwow-a-885902/poster.jpg",
+   "width": 1290,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 4033514,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "imastudio-ai-753796",
@@ -2916,7 +2988,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-753796/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-753796/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-753796/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-753796/poster.jpg",
+   "width": 720,
+   "height": 930,
+   "duration_ms": 15100,
+   "bytes": 2308537,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "honnago-020481",
@@ -2933,7 +3017,19 @@
   ],
   "prompt": "A 30-second ultra-realistic personal Korean university morning vlog set in South Korea around 2003, filmed entirely on an early-2000s consumer DV camcorder. The SAME young Korean female student must remain perfectly consistent in face, hair, body proportions, outfit, accessories and backpack throughout.\n\n0–5s — GET READY: In a modest early-2000s Korean bedroom, she fixes her hair, gets dressed, grabs her backpack and gives the camera a small sleepy smile. Include period-accurate books, magazines, stationery and furniture.\n\n5–10s — WALK TO UNIVERSITY: She walks through an authentic early-2000s Korean neighborhood with older cars, buses, shops, utility poles and pedestrians, occasionally glancing at the camera.\n\n10–16s — CAMPUS + CLASSROOM: She enters an early-2000s Korean university, walks into class, sits down, takes out her notebook and pens while a professor teaches and students take notes.\n\n16–22s — CAFETERIA: After class, she gets a simple Korean lunch in a busy university cafeteria, sits down, takes a bite and smiles naturally.\n\n22–30s — FRIENDS: She meets 2–3 Korean university friends and walks with them across campus toward the street, laughing and chatting. End with them continuing down the sidewalk.\n\nSTYLE: Genuine raw early-2000s DV footage—handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild CCD/DV noise, motion blur, compression and occasional awkward zooms. Natural skin texture and candid behavior.\n\nEverything must be authentically early 2000s: clothing, hairstyles, cars, buildings, signs, stationery, technology and interiors. No smartphones, modern laptops, AirPods, modern cars, LED lighting, 4K sharpness, cinematic camera movement, beauty filters, VHS effects or modern influencer styling.\n\nCONTINUITY: GET READY → KOREAN STREET → UNIVERSITY GATE → CLASSROOM → CAFETERIA → WALK WITH FRIENDS. No teleporting, outfit changes, identity drift, duplicated people, warped hands or disappearing props.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/honnago-020481/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/honnago-020481/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/honnago-020481/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/honnago-020481/poster.jpg",
+   "width": 864,
+   "height": 480,
+   "duration_ms": 31104,
+   "bytes": 2283660,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "proof-yu-263191",
@@ -2949,7 +3045,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/proof-yu-263191/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/proof-yu-263191/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/proof-yu-263191/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/proof-yu-263191/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 65833,
+   "bytes": 4474870,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tk2works-466260",
@@ -2965,7 +3073,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tk2works-466260/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tk2works-466260/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tk2works-466260/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tk2works-466260/poster.jpg",
+   "width": 1152,
+   "height": 640,
+   "duration_ms": 10125,
+   "bytes": 1357831,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "monetizationdon-951099",
@@ -2981,7 +3101,19 @@
   ],
   "prompt": "ONE HOTEL.\nONE HEIST.\nNO WAY IN.\nNO WAY OUT.\n\nAGENT ALEXA GREY — SHADOWS NEVER DIE.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-951099/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-951099/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-951099/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-951099/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 35223,
+   "bytes": 4321285,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sash02jp-046729",
@@ -2997,7 +3129,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sash02jp-046729/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sash02jp-046729/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sash02jp-046729/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sash02jp-046729/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 28500,
+   "bytes": 4202105,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "bububuxdayo-631196",
@@ -3013,7 +3157,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/bububuxdayo-631196/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/bububuxdayo-631196/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/bububuxdayo-631196/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/bububuxdayo-631196/poster.jpg",
+   "width": 720,
+   "height": 1296,
+   "duration_ms": 31625,
+   "bytes": 4894311,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "chidera-samuel3-368226",
@@ -3029,7 +3185,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/chidera-samuel3-368226/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/chidera-samuel3-368226/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/chidera-samuel3-368226/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/chidera-samuel3-368226/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 184384,
+   "bytes": 28289869,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "toyxyz3-611576",
@@ -3045,7 +3213,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/toyxyz3-611576/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/toyxyz3-611576/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/toyxyz3-611576/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/toyxyz3-611576/poster.jpg",
+   "width": 960,
+   "height": 544,
+   "duration_ms": 147458,
+   "bytes": 10732307,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "decat2025-364138",
@@ -3062,7 +3242,19 @@
   ],
   "prompt": "15-second realistic cinematic horror sequence, shot on 35mm film, dark bedroom, cold moonlight, high contrast shadows, subtle film grain, natural realistic cat movement.\n\nExactly two cats: one real black cat sitting on the bedroom floor, and one separate black cat inside the mirror acting independently. Exactly one tall standing mirror.\n\n[0-5s] Medium shot. The real black cat sits frozen on the floor, staring at the mirror. Inside the mirror, the other black cat stands up and starts walking toward the glass, getting bigger and closer, while the real cat stays completely still. The viewer pushes in fast.\n\n[5-10s] Close-up on the mirror. The cat inside slams one paw against the glass from the inside. A loud spiderweb crack spreads across the mirror. Its eyes glow bright yellow, its mouth opens wide showing sharp teeth.\n\n[10-15s] The real cat screeches and sprints out of frame. The mirror glass bulges outward and shatters, shards flying toward the viewer. Through the empty frame, only two glowing yellow eyes remain in total darkness, then they blink out.\n\nNegative prompt: cartoon, anime, 3D render, more than two cats, reflection copying the real cat, static scene, nothing happening, extra legs, distorted face, warped body, bright lighting, humans, morphing, watermark",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-364138/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-364138/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-364138/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-364138/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 1435211,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "su-nagomi-894294",
@@ -3079,7 +3271,19 @@
   ],
   "prompt": "【15秒｜9:16｜実写系メイドカフェ求人CM｜原宿KAWAII POP｜セリフ＋ナレーション＋画面内テキスト表示あり｜BGMあり｜SEあり】 \n【全体仕様】 テーマ：「かわいいを、仕事に。」 映像スタイル：原宿KAWAIIカルチャー×メイドカフェ×ファッションCM。明るくポップでテンポが良く、求人広告として一瞬で内容が伝わる構成。 キャラクター：添付画像の5人を基準に、顔・髪型・髪色・衣装・アクセサリーを固定。黒×ピンクのゴシックメイドをメインキャラクターとして扱う。 背景：全編ピンク一色にしない。ピンク、ミント、ラベンダー、クリーム、ベビーブルー、白をカットごとに切り替える。背景や店内セットには、白い手書き文字、白ネオン文字、黒文字、ピンク文字、店内サイン、装飾ボード、ラベル、ハートネオンをしっかり表示する。 重要条件：今回はテロップ後入れではなく、映像生成の段階で文字をすべて表示する。背景文字も消さない。背景にある白文字、ネオン文字、装飾文字、求人見出し、ラベル類をはっきり読めるように表示する。白文字は背景に埋もれないよう、濃いピンク、黒、ラベンダー、ミント、クリームの面の上に配置し、縁取り、影、ネオン発光などで視認性を確保する。 画面内テキスト： 「かわいいを、仕事に。」「MAID CAFE RECRUIT」「NEW CAST」「JOIN US!」「未経験OK」「週1日〜OK」「衣装貸与」「お友達と応募OK」「メイドさん募集中」「CAST WANTED」「ご応募お待ちしています♡」を各CUTに自然に表示する。英字、日本語ともに読みやすく、文字化けなし。 BGM：原宿系KAWAII POP。明るいエレクトロポップ、跳ねるシンセ、チップチューン、ハンドクラップ、キラキラベル。140BPM前後。 SE：ドアベル、POP、キラッ、カップ音、シャッター音。 音声：20代女性の明るく親しみやすい声。セリフ中はBGMを少し下げる。 \n【CUT1｜0:00-0:03】 Visuals：黒×ピンクのメイドが、黒×ネオンピンクのハートライト背景から振り向き、カメラを見る。指を口元に添えて小さく微笑む。背景に白ネオン文字と装飾文字を表示。 Camera：50mm F1.8、胸上アップ、軽いプッシュイン。 Motion：振り向く→目線→微笑む。 Lighting：白いソフトキー＋ピンクのリムライト。 VFX：小さなハートが一度だけPOP。 On-screen Text：大きく「かわいいを、仕事に。」、下に「MAID CAFE RECRUIT」、周辺に小さく「NEW CAST」。白文字とピンクネオン文字を併用。 SFX：ドアベル「チリン」→キラッ。 Dialogue：「ねえ、“かわいい”を仕事にしてみない？」 Emotion：ワクワク、憧れ。 Transition：ハート形ワイプ。 \n【CUT2｜0:03-0:07】 Visuals：ピンク衣装のメイドがストロベリードリンクを作る→ミント衣装のメイドが紅茶を運ぶ→カラフル衣装のメイドがカメラへ手を差し出す、短い3連モンタージュ。背景に店内サインや白い装飾文字を表示。 Camera：35mm〜50mm、テンポよく切り替える。 Motion：ドリンクを置く→カップを運ぶ→手を差し出す。 Lighting：クリーム、ミント、ベビーブルーと背景色を変化。 VFX：各切替で小さな星・ハートPOP。 On-screen Text：縦またはラベル風に「未経験OK」「週1日〜OK」「衣装貸与」「お友達と応募OK」をそれぞれ見やすく表示。背景ボードやネオンに「JOIN US!」も入れる。 SFX：コトッ→キラッ→POP。 Narration：「未経験でも大丈夫。仲間と一緒に、楽しくごほうし。」 Emotion：安心、楽しさ。 Transition：ビート同期カット。 \n【CUT3｜0:07-0:11】 Visuals：黒×ピンクのメイドとピンク衣装のメイドが、ケーキとドリンクを持ってラベンダー×クリームの店内を歩く。途中でカメラを見て笑顔。背景の壁面に白文字やメニュー風装飾を表示。 Camera：35mm F2.0、後退しながら2人を追う。 Motion：歩く→目線→軽く手を振る。 Lighting：柔らかい暖色照明。 On-screen Text：大きく「メイドさん募集中」、サブで「CAST WANTED」。背景の白い手書き文字として「JOIN US!」も見えるように表示。 SFX：足音、食器音、軽いキラッ。 Dialogue（黒×ピンク）：「一緒なら、もっと楽しいよ♡」 Narration：「あなたの“好き”を、ここで。」 Emotion：親近感、期待。 Transition：シャッター音で切替。\n 【CUT4｜0:11-0:15】 Visuals：5人全員が明るいメイドカフェ中央に集合。背景は白・クリーム基調に、ピンク、ミント、ラベンダーの差し色。5人が笑顔で一歩前へ出て、カメラへ手を差し出す。背景には大きなネオン文字とリボン風見出しを表示。 Camera：28mm F2.8、全員が入るワイド→最後だけ軽くプッシュイン。 Motion：集合→一歩前へ→手を差し出す。 Lighting：明るいヒーローライティング。 VFX：背後にハート型ライトがふわっと点灯。 On-screen Text：上部または中央に「MAID CAFE RECRUIT」または「メイドさん募集中」、下部のリボンバナーに「ご応募お待ちしています♡」。サブで「JOIN US!」を小さく配置。 SFX：キラッ→ベル。 Dialogue（5人）：「一緒に働こっ♡」 Narration：「メイドさん、募集中。」 BGM：最後のビートで気持ちよく締める。 Emotion：歓迎、楽しさ、応募したくなる余韻。 Transition：白フェードアウト。",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-894294/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-894294/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-894294/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-894294/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 2611713,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "studio-yas-104164",
@@ -3095,7 +3299,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studio-yas-104164/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studio-yas-104164/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studio-yas-104164/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studio-yas-104164/poster.jpg",
+   "width": 1024,
+   "height": 576,
+   "duration_ms": 200500,
+   "bytes": 14674983,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "pokarin-grok-978835",
@@ -3111,7 +3327,19 @@
   ],
   "prompt": "Cinematic action video sequence, Seedance 2.5 style,\nScene 1: A young Asian schoolgirl with black hair and a backpack sprints down the middle of a wide empty city avenue flanked by skyscrapers while two military attack helicopters fly low overhead. \n\nScene 2: Close-up of a helicopter rocket pod firing smoke-trail missiles, cutting to the schoolgirl spinning around sharply as wind whips her hair.\n\nScene 3: Slow-motion shot, her loafers glow with blue magical energy as she leaps high into the air over the street, avoiding missiles that trigger massive fiery explosions behind her.\n\nScene 4: Tracking shot of the girl running forward as a barrage of guided missiles flies straight down the highway toward her.\n\nScene 5: Close-up of her face with glowing green eyes; she thrusts her hand forward, projecting a powerful translucent green energy shield that halts the incoming missiles mid-air.\n\nScene 6: She sends a shockwave of green energy forward, causing both attack helicopters to explode mid-air in massive balls of fire and crash onto the street.\n\nScene 7: Medium shot of the girl standing confidently with glowing green eyes, making a finger-gun gesture saying \"Boom\", then turning around and walking calmly away down the empty street between skyscrapers.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/pokarin-grok-978835/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/pokarin-grok-978835/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/pokarin-grok-978835/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/pokarin-grok-978835/poster.jpg",
+   "width": 544,
+   "height": 960,
+   "duration_ms": 15083,
+   "bytes": 2365059,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "nyappokopoko-425961",
@@ -3127,7 +3355,19 @@
   ],
   "prompt": "猫と和解する話",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyappokopoko-425961/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyappokopoko-425961/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyappokopoko-425961/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyappokopoko-425961/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 51701,
+   "bytes": 3320129,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "monetizationdon-069012",
@@ -3143,7 +3383,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-069012/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-069012/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-069012/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-069012/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 35113,
+   "bytes": 3603338,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "artedeingenio-069668",
@@ -3159,7 +3411,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/artedeingenio-069668/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/artedeingenio-069668/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/artedeingenio-069668/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/artedeingenio-069668/poster.jpg",
+   "width": 1258,
+   "height": 720,
+   "duration_ms": 14071,
+   "bytes": 3519614,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tokyo-valentine-074822",
@@ -3177,7 +3441,19 @@
   ],
   "prompt": "subject_definitions:\n<Subject 1> is the single female character depicted in <Picture 1>. The front, side, back, and facial views all depict the SAME person. Preserve her exact facial identity, pale green eyes, short black bob with straight bangs, raised patterned hood, red-and-silver headphones, oversized black-and-turquoise graphic jacket, shorts, patterned thigh-high socks, and chunky black boots. Keep all original clothing colors, graphic motifs, accessories, proportions, and silhouette consistent.\nsummary:\n[reference generation] Create a 15-second, 9:16 animated comedy. <Subject 1> looks like an intimidating, powerful heroine, but a convenience-store automatic door refuses to open for her. Her increasingly awkward attempts fail. An ordinary customer approaches, and the door immediately opens. She quietly follows the customer inside while trying to preserve her dignity. Exactly three shots, one location, two characters, no dialogue.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - retain the character identity, costume, headphones, hairstyle, and illustrated appearance from <Picture 1>. Use the image only as a character-design reference. The white background, sheet layout, multiple views, and headings are not part of the video. Show only one instance of this character.\ndetailed_description:\nHigh-detail 2D animated illustration matching the reference character's visual style, with smooth, restrained acting and consistent clothing details. The setting is a quiet Japanese convenience-store entrance at night. Warm interior light contrasts with cool blue street lighting. The entrance has two transparent glass panels that slide horizontally apart. Keep the same entrance, lighting, and spatial layout throughout. The humor comes from her serious expression and the door's refusal to cooperate. No supernatural effects.\n\n[Shot 1]\nA slightly low-angle, three-quarter exterior medium-wide shot shows <Subject 1> on the left and the closed automatic entrance on the right. Her face is visible in profile, and the glass-panel seam is clearly visible. She takes two confident steps toward the entrance, both hands in her jacket pockets, chin slightly raised, looking exceptionally cool and composed. She stops about 40 centimeters in front of the glass, directly beneath the overhead sensor. The door remains completely closed. She waits for a brief beat, then slowly looks up at the sensor. Her confidence shifts into quiet confusion. A short, dramatic electronic bass phrase accompanies her approach, then abruptly stops when the door fails to open. Footsteps and faint street ambience remain.\n[Shot 2] At 00:03.000, cut to a locked, eye-level full-body shot from the same exterior side, keeping her face, boots, sensor, and entire doorway visible.\n<Subject 1> remains in front of the same closed door. Without smiling, she removes her right hand from her pocket and waves it twice beneath the sensor. Nothing happens. She pauses, stares at the sensor, then makes ONE small vertical hop with both boots briefly leaving the pavement. She lands naturally in the same spot. The door still does not move. Her jacket and accessories settle after the landing. She lowers her hand, holds a stiff, dignified posture, and gives the glass a mildly offended stare. Keep each action separate and clearly readable. The audio consists of a quiet sleeve rustle, one soft landing thud, and street ambience.\n\n[Shot 3] At 00:09.000, cut to a slightly wider exterior view of the same doorway.\n<Subject 1> shifts half a step to the left, remaining outside beside the entrance with her face visible. One ordinary adult customer in a plain brown jacket and blue jeans enters from the right and approaches the center of the doorway at a normal walking pace. ONLY NOW do the two glass panels immediately slide apart, accompanied by a gentle motor sound and a short electronic entry chime. Show the panels opening fully before the customer crosses the threshold. The customer walks into the store without noticing her.\n<Subject 1> freezes for a short beat and looks from the open doorway toward the departing customer. Her expression stays mostly serious, with only a tiny eyebrow twitch revealing embarrassment. She puts her right hand back into her pocket, straightens her posture, and casually follows the customer through the still-open entrance as if that had been her plan all along. End at 15 seconds with her entering the store. Keep both characters separate, with natural walking and no overlapping bodies.\noverall_soundscape:\nQuiet nighttime street ambience, subdued ventilation hum, natural footsteps, clothing rustle, one small-hop landing, and the sliding-door motor. The entry chime occurs only when the ordinary customer activates the door in Shot 3. Both characters remain silent throughout: no dialogue, narration, singing, vocal reactions, or intelligible background speech.\n\nnon_diegetic_music:\nA brief instrumental electronic bass phrase during the confident approach in Shot 1, stopping abruptly when the door stays closed. No music during her failed attempts. One soft, dry pizzicato note punctuates her embarrassed pause in Shot 3. No vocals.\nKeep the original costume graphics intact. Add no captions, subtitles, title cards, watermarks, or branded store signage. No additional pedestrians, character duplicates, extra cuts, camera shake, glass collisions, forced entry, or door opening before Shot 3.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-074822/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-074822/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-074822/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-074822/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 14375,
+   "bytes": 2793245,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "zhu185178-583226",
@@ -3193,7 +3469,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/zhu185178-583226/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/zhu185178-583226/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/zhu185178-583226/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/zhu185178-583226/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 191500,
+   "bytes": 22519394,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "su-nagomi-206138",
@@ -3209,7 +3497,19 @@
   ],
   "prompt": "９in1 ワンカットずつ動画作成　背景のタイポグラフィーは正確に描写　BGM　原宿ポップ",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-206138/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-206138/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-206138/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-206138/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 1354358,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "studioahoudori-548903",
@@ -3225,7 +3525,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studioahoudori-548903/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studioahoudori-548903/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studioahoudori-548903/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studioahoudori-548903/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 20208,
+   "bytes": 2238147,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tonnyzhou-805884",
@@ -3241,7 +3553,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tonnyzhou-805884/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tonnyzhou-805884/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tonnyzhou-805884/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tonnyzhou-805884/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 20000,
+   "bytes": 2250871,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "decat2025-858855",
@@ -3258,7 +3582,19 @@
   ],
   "prompt": "A lone warrior crosses an ancient ruined temple beneath a colossal stone warrior statue.\n\n0–5 sec: Without warning, the statue’s enormous stone hand slams down beside him, shattering the floor. He dives clear as debris explodes around him.\n\n5–10 sec: The statue tears both feet free from its pedestal and steps forward. The warrior runs between its legs as a massive stone foot crashes down inches behind him.\n\n10–15 sec: The warrior reaches the temple doorway. The statue raises its sword to strike, but the ceiling collapses onto it. Dust clears. The warrior looks back. The statue’s glowing eyes appear through the rubble.\n\nCUT TO BLACK.\n\nStyle: Photorealistic dark fantasy, immediate action, colossal scale, brutal stone weight, fast escalation, realistic destruction, dynamic cinematic camera, no famous faces.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-858855/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-858855/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-858855/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-858855/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 2284405,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tokyo-valentine-810451",
@@ -3277,7 +3613,19 @@
   ],
   "prompt": "MiniMax H3 Prompt\nsubject_definitions:\n<Subject 1> is A, the black-haired heroine from character reference image 1.\n<Subject 2> is B, the white-haired heroine from character reference image 2.\nPreserve both exact faces, hairstyles, outfits, accessories, proportions and original 2D art styles.\n<Audio 1> is the voice-timbre reference for <Subject 1> (S1) only. Use A's vocal identity and natural pitch; never copy the recording or its words.\nsummary:\n[reference generation + audio reference] Create a 15-second Japanese 2D anime action-comedy with synchronized sound. Use the selected aspect ratio. A dramatically splits the ground between herself and B and believes she has created an impassable obstacle. B calmly places an ordinary wooden plank across the gap and walks toward A. End on A's familiar silent, stunned face.\nretention_analysis:\n<Subject 1> (all shots): fully_preserved - exact identity, design, proportions and illustrated style; new actions and setting.\n<Subject 2> ([Shot 1], [Shot 2]): fully_preserved - exact identity, design, proportions and illustrated style; new actions and setting.\n<Audio 1>: reference - vocal timbre guides A's single written sentence; no recorded words or audio signal are copied.\nImages define identity only, not poses or sheet layouts. Equal standing height, excluding ornaments. ONE A and ONE B; no clones, merged identities or additional people.\ndetailed_description:\nHand-drawn 2D anime with clean linework, cel shading, readable movements and expressive faces. Use the reference art style throughout.\nOne empty stone courtyard in warm afternoon light. A starts screen-left; B starts screen-right, facing A. They are about three meters apart. A stays on the left throughout. B later walks right-to-left toward A without passing or touching her.\nUse a stable three-quarter wide view showing both full bodies, their feet and the floor between them. Keep the same viewing side and screen direction.\nONE ordinary wooden plank lies flat beside B on the right side from the opening frame. It is plain brown, straight, rigid, about 1.6 meters long and 45 centimeters wide. Its long axis follows the right-to-left walking direction.\nThe attack creates ONE fissure between A and B, running from the foreground toward the rear of the courtyard. It separates the left and right banks. The gap is about 70 centimeters wide, much shorter than the plank. Both banks stay level, with solid visible edges. The dark bottom is not visible.\nThe fissure never opens beneath either heroine or the plank. Courtyard walls stay intact. Referenced costumes and accessories do not change.\n\n[Shot 1]\nStatic three-quarter wide view. <Subject 1> stands screen-left with a confident expression. <Subject 2> stands screen-right beside the visible plank, relaxed and attentive, her lips closed.\nBetween 0.3 and 2.3 seconds, <Subject 1> (S1) declares confidently using the vocal timbre referenced from <Audio 1>: [Japanese] これが、さいきょう! Synchronize A's lips to this sentence once. Finish by 2.3 seconds, then close her mouth.\nA lifts her right foot slightly and delivers ONE powerful stomp.\nShow foot contact with intact stone before the magic starts. A brilliant teal shockwave races across the floor between the heroines. Stone dust rises as ONE fissure opens in that space.\nMake the effect spectacular but brief. Keep both bodies and the floor readable. No full-screen flash, camera rotation or smoke concealing the result.\nBy 3.5 seconds, the dust clears enough to reveal the finished gap. Both heroines stand safely on their original banks. The plank remains beside B. No additional attack.\n[Shot 2] At 00:03.500, cut slightly closer from the same viewing side.\nA lifts her chin and gives a proud, closed-mouth smile. She looks across the gap at B and waits.\nB looks down at the fissure, then at the plank beside her. Her mouth stays closed; there is no vocal reaction.\nHold a short quiet beat before B picks up the plank.\n\nFrom 5.0 to 9.0 seconds, keep this shot uncut.\nB bends her knees, grips the plank with both hands and lifts it as ONE rigid object.\nShe lowers it across the fissure. Its long axis points from her right bank toward A's left bank, perpendicular to the fissure.\nShow the far end settle onto the left bank and the near end settle onto the right bank. Both ends rest visibly on solid stone, with generous overlap beyond each edge.\nB releases her hands only after both ends are supported. The plank lies flat and does not move again.\nKeep B's hands, the complete plank and both banks visible. One plain wooden clack. No magic, glow, floating or prop transformation.\nA stays still on the left bank and watches. Her smile slowly fades.\nFrom 9.0 to 12.0 seconds, B walks calmly along the plank from screen-right to screen-left.\nShow her feet contacting the wood in sequence. The plank stays flat, rigid and supported on both banks. B does not jump, float or perform a balancing routine.\nShe steps onto the left bank and stops between A and the gap, comfortably away from A. No passing, contact or overlap.\nB remains composed with closed lips, viewed mostly in profile during the crossing. No greeting, invitation gesture or conversational mouth movement.\nThe plank stays across the still-open fissure. A looks from B down to the ordinary bridge. No further action.\n[Shot 3] At 00:12.000, cut to A's face on the left bank.\nPreserve <Subject 1>'s exact reference face. Her eyes widen, pupils become slightly smaller and eyebrows lift. Her lips part once into a small stunned expression, then HOLD without repeated jaw or lip movement.\nShe looks slightly toward the camera with her familiar uncomprehending expression.\nApply a short, slow push-in and hold the final full second. No vocal sound. End directly on A's face.\nONE A, ONE B, ONE plank, ONE fissure. No prop duplication, deformation or sudden appearance. The gap never closes or changes width. No falling, injury, costume change or extra gag.\nExactly ONE spoken sentence. B never speaks or makes a vocal reaction; her lips remain closed whenever visible. After 2.3 seconds, neither heroine produces speech, gasps, grunts, screams, laughter, sighs, humming or audible breaths. No narration, inner monologue or improvised words. Physical sound effects continue.\nNo subtitles, captions, readable text, speech bubbles, logos, watermarks or HUD.\noverall_soundscape:\nFaint courtyard wind. One heavy stomp synchronized to visible foot contact, one magical pressure burst and a short stone-cracking rumble. Later, one wooden placement clack and restrained footsteps during B's crossing. The final reaction contains only faint ambience.\nOnly A's written line uses <Audio 1>; no other voices or source playback.\n\nnon_diegetic_music:\nBrief dramatic instrumental percussion and low strings during the opening attack. Stop completely when B looks toward the plank. No further music, choir, vocal samples, comedy sting or canned laughter.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-810451/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-810451/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-810451/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-810451/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 14375,
+   "bytes": 3158125,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "monetizationdon-329189",
@@ -3293,7 +3641,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-329189/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-329189/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-329189/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-329189/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 33482,
+   "bytes": 3618345,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "newtonmark13-814052",
@@ -3309,7 +3669,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/newtonmark13-814052/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/newtonmark13-814052/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/newtonmark13-814052/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/newtonmark13-814052/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 120000,
+   "bytes": 7738976,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "imastudio-ai-764520",
@@ -3325,7 +3697,19 @@
   ],
   "prompt": "Create a 15s, 16:9, 24fps live-action fashion magazine trailer with exactly 13 cuts. Style: Korean/Asian luxury fashion editorial × pink campaign × kinetic typography. Theme: ROSE GLOW. Tagline: SOFT ATTITUDE.\nUse the reference girl as the ONLY identity source. Keep the same young adult East Asian woman, face, skin tone, age, long dark-brown hair, bangs, slim body and proportions. No face drift, extra people, hairstyle or body changes.\nWORLD: PINK FASHION MAGAZINE STUDIO only. No outdoor/city/café/hotel/nature. Every cut changes set, layout and composition. Palette: soft/rose pink, cream white, small black/silver. Use magazine pages, typography walls, acrylic, mirrors, torn paper, grids, flowers, contact sheets, frames, checkerboard.\nLOOKS: 01 pink tweed + mini skirt; 02 cream-white top + pink-white asymmetric skirt; 03 rose fitted mini dress; 04 pale-pink Y2K crop top + pink-gray low-rise skirt; 05 pale-pink satin/tweed hero dress.\nCUTS: 1 close-up side gaze→camera, “ROSE”. 2 LOOK01, touch face, push-in, “GLOW”. 3 beauty close-up, brush hair, cream set, “CHINA MUSE”. 4 LOOK02, side→front, pink circle, “SOFT ATTITUDE”. 5 giant magazine page, half-step, “THE PINK EDIT”. 6 LOOK03 seated on silver platform, “MODERN ROMANCE”. 7 chest-up, adjust earring, “COVER GIRL”. 8 LOOK04, checkerboard, hip shift + look back, “NEW MOOD”. 9 centered model + 3–4 photo contact sheets. 10 torn pink paper reveal, shoulder turn, “FASHION ISSUE”. 11 LOOK05, pink acrylic + silver frame, step forward, “ROSE GLOW”. 12 pull-back as magazine pages/contact sheets/frames build around her, “SOFT ATTITUDE”. 13 final cover: slight turn→direct gaze; graphics assemble into ROSE GLOW / CHINA MUSE / SOFT ATTITUDE / VOL. 2026 / THE PINK EDIT. Hold final 0.5s.\n55% live-action / 45% motion graphics. Each cut combines character action + camera move + typography + graphics. No dancing. Avoid slideshow, repeated backgrounds, sticker/PPT feel, cyberpunk, unreadable text, logos, watermark, UI, subtitles.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-764520/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-764520/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-764520/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-764520/poster.jpg",
+   "width": 1278,
+   "height": 720,
+   "duration_ms": 15580,
+   "bytes": 2180588,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "gamerhashcom-154282",
@@ -3341,7 +3725,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-154282/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-154282/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-154282/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-154282/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 10157,
+   "bytes": 1070320,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "just-anika-here-407680",
@@ -3359,7 +3755,19 @@
   ],
   "prompt": "Create a 15-second ultra-photorealistic live-action zombie horror movie sequence in 16:9 widescreen. Make it feel like a professionally shot theatrical horror film, with 5 connected shots, escalating tension, strong cinematic sound design and music. Realistic human movement, realistic environments, grounded physics, no comedy, no text, no subtitles, no dialogue.  SHOT 1 — 0–3 sec: Night. A deserted underground parking garage. A frightened young woman walks quickly between parked cars, holding a small flashlight. The camera tracks backward in front of her. Suddenly, the flashlight beam catches a motionless person standing far behind her. Deep bass hit.  SHOT 2 — 3–6 sec: Close-up of the woman's face as she stops breathing for a moment and looks behind her. The parking space is empty. The music drops almost completely silent. She slowly turns back toward the camera.  SHOT 3 — 6–9 sec: A zombie suddenly appears extremely close behind her in the background — pale dirty skin, torn everyday clothing, blood around the mouth, unnatural posture. It moves toward her with a sudden violent burst. Hard music impact.  SHOT 4 — 9–12 sec: She runs through the parking garage. Camera follows handheld from behind. Multiple distant zombie silhouettes suddenly emerge between the cars, blocking the exit. Emergency lights begin flashing red.  SHOT 5 — 12–15 sec: She reaches the exit door and desperately pulls it open. Bright daylight floods into the dark garage. She looks relieved for half a second — then the camera moves slightly past her shoulder and reveals dozens of zombies already standing silently outside, completely blocking the exit.  On the final bass hit, one zombie suddenly looks directly into the camera.  CUT TO BLACK.  VISUAL STYLE: ultra-photorealistic live-action theatrical zombie horror, cinematic 16:9 composition, realistic human anatomy, realistic zombie makeup and skin texture, physically believable movement, dark atmospheric lighting, practical-looking effects, subtle film grain, dramatic contrast, natural handheld camera movement, high-end horror cinematography.  CONSISTENCY & QUALITY: keep the same woman, same clothing, same hairstyle and same underground parking garage throughout the sequence. Zombies must have consistent realistic anatomy. No extra limbs, extra fingers, duplicated people, warped faces, melting bodies, floating objects, cartoon appearance, video-game look, excessive gore, text, subtitles, logos or watermark.  EDITING: each shot must have a clear visual purpose and connect naturally to the next. Fast pacing, no dead time. The first shot must immediately create curiosity. Build tension from mystery → realization → zombie reveal → chase → final shocking reveal.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/just-anika-here-407680/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/just-anika-here-407680/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/just-anika-here-407680/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/just-anika-here-407680/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 2198743,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "hemi3ai-909200",
@@ -3375,7 +3783,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-909200/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-909200/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-909200/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-909200/poster.jpg",
+   "width": 720,
+   "height": 1270,
+   "duration_ms": 10125,
+   "bytes": 2092766,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "alexutopia-935193",
@@ -3391,7 +3811,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alexutopia-935193/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alexutopia-935193/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alexutopia-935193/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alexutopia-935193/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 31439,
+   "bytes": 3578012,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "viperstudios4-961148",
@@ -3407,7 +3839,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/viperstudios4-961148/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/viperstudios4-961148/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/viperstudios4-961148/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/viperstudios4-961148/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 37477,
+   "bytes": 6200274,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "westkast-400888",
@@ -3423,7 +3867,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/westkast-400888/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/westkast-400888/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/westkast-400888/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/westkast-400888/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15100,
+   "bytes": 2423297,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "neco1751662-517420",
@@ -3441,7 +3897,19 @@
   ],
   "prompt": "A charming 15-second animated children's fairy tale in a handcrafted Scandinavian paper-cut storybook style.\n\nVertical 9:16 composition.\n\nA tiny fluffy white rabbit wearing a red postman's cap and carrying a brown leather mailbag rides a miniature bicycle through an enchanted nighttime forest.\n\nThe entire environment is made of layered textured paper, with carefully cut silhouettes of trees, mushrooms, flowers, and little woodland houses. Soft pastel colors, warm lantern lights, deep blue nighttime sky.\n\n0-4s: The little rabbit pedals along a winding forest path. Layered paper trees gently slide past, creating a magical parallax effect.\n\n4-8s: The rabbit stops in front of a cozy house inside a giant tree. It opens its mailbag and carefully takes out a tiny glowing parcel.\n\n8-12s: The rabbit unwraps the parcel, revealing a miniature golden crescent moon floating gently above its paws.\n\n12-15s: The crescent moon rises into the sky, growing larger and illuminating the entire forest with warm golden moonlight. The rabbit looks up proudly.\n\nAdorable expressive character animation, gentle stop-motion-inspired movements, layered paper textures, charming handcrafted imperfections, cinematic storybook compositions.\n\nWhimsical music with pizzicato strings, celesta, and soft wooden percussion. Gentle bicycle bell and magical chime sounds.\n\nNo dialogue, no text, no subtitles. Consistent rabbit design. No photorealism, no realistic CGI.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/neco1751662-517420/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/neco1751662-517420/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/neco1751662-517420/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/neco1751662-517420/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15104,
+   "bytes": 2251972,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "prettyblocks-974564",
@@ -3459,7 +3927,19 @@
   ],
   "prompt": "Realistic live-action cinematic look, black-and-white noir horror: high-contrast monochrome film photography with elements of yellow highlights, cyberpunk decay meets scratchy cinema reel, backlit and side lit like a surreal set, heavy 35mm film grain and silver-halide texture, deep crushed blacks, blown-out practical highlights, shallow depth of field, thick volumetric fog and storm spray.\n\nScene overview: a cyborg kitten, adorable, trots through luminescent puddles on a cold night, dodging footsteps. Its fur is patchy, half organic and half exposed chrome plating, one eye a wet organic orb and the other a flickering yellow lens iris, a thin cable tail trailing behind it, small servo joints clicking at the shoulders and hips, steam venting faintly from its ribs. It moves with unsettling grace — too smooth, too deliberate for something so small. The footsteps belong to something enormous, unseen, off-frame above; each one lands with a bass thud that ripples the puddles. Implied horror over explicit gore, practical body-horror feel, wet organic textures, no text anywhere.\n\nStoryboard (low tracking shots, rapid cuts on the beats):\n\n[0s-2.5s] Shot 1: ground-level tracking shot: the cyborg kitten trots through a luminescent puddle, reflection rippling beneath it, chrome paws clicking on wet stone, yellow lens eye flickering, fog crawling past, a distant yellow neon glow behind it.\n\n[2.5s-5s] Shot 2: hard cut, side angle: an enormous boot lands just behind the kitten, water and light bursting outward, the shockwave knocking the kitten briefly off balance, its cable tail whipping for balance, servo whine rising.\n\n[5s-7.5s] Shot 3: low front angle: the kitten darts forward, dodging a second footfall, ears flat, patchy fur and chrome plating catching the yellow highlights, one organic eye wide, the lens eye stuttering and refocusing.\n\n[7.5s-10s] Shot 4: overhead shot: the kitten weaving between the legs of the unseen giant, puddles rippling in rings around each step, its small shadow stretching long across the wet ground, fog swirling up around it.\n\n[10s-12.5s] Shot 5: tight close-up: the kitten pauses, looks straight up at the camera, steam venting from its ribs, jaw opening slightly to reveal a row of small chrome teeth and something wet moving behind them, yellow lens eye flaring bright.\n\n[12.5s-15s] Shot 6: pull back to wide: the kitten continues trotting away into the fog down the alley, the giant's footsteps thudding behind it, yellow neon glare bleeding through the haze, then a hard frame jitter and fade to black on the last beat.\n\nCamera: ground-level tracking shots, each cut clean and hard and locked to the beat, subtle handheld float, gate weave and film grain, motion blur on the fast dodges, a hard frame jitter as the kitten looks up at 10s.\n\nAudio: rain and dripping water, distant thunder, low sub-bass thud on each giant footstep, soft clicking servo and steam hiss from the kitten, faint high-pitched mewl that glitches slightly at the edges, a rising metallic whine into the close-up, cutting to a single low sub-bass hit and near-silence on the fade to black.\n\nNo text, subtitles, logos or watermarks of any kind, no animation or cartoon rendering, no overly-CG look, keep the live-action texture and practical body-horror feel. Implied horror over explicit gore.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/prettyblocks-974564/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/prettyblocks-974564/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/prettyblocks-974564/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/prettyblocks-974564/poster.jpg",
+   "width": 480,
+   "height": 864,
+   "duration_ms": 15083,
+   "bytes": 1467513,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "nakazakifam-072319",
@@ -3475,7 +3955,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nakazakifam-072319/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nakazakifam-072319/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nakazakifam-072319/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nakazakifam-072319/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 50000,
+   "bytes": 4703770,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "caningum-287795",
@@ -3491,7 +3983,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/caningum-287795/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/caningum-287795/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/caningum-287795/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/caningum-287795/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 16833,
+   "bytes": 1639633,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "decat2025-711203",
@@ -3508,7 +4012,19 @@
   ],
   "prompt": "15-second realistic cinematic horror sequence, shot on 35mm film, grey overcast beach at dusk, cold blue-grey colors, wet sand, subtle film grain.  Exactly one person: a woman in a yellow raincoat standing on the shore.\n\n[0-5s] Wide shot of a calm beach. The woman stands at the water's edge looking out at the sea. Suddenly the water starts pulling back fast, far faster than any normal tide, exposing wet sand and rocks for hundreds of meters.\n\n[5-10s] The viewer rises high above her. As the sea drains away, the exposed seabed reveals rows and rows of pale human figures standing perfectly still on the sand, dozens of them, all facing the ocean, their backs to the woman.\n\n[10-15s] Close-up on the woman's face as she steps back in horror. Cut to wide shot: all the figures on the seabed turn around at the exact same moment and face the viewer. In the far distance, a massive wave is rising.\n\nNegative prompt: cartoon, anime, 3D render, sunny weather, bright colors, swimmers, figures moving out of sync, static scene, nothing happening, distorted faces, extra limbs, morphing, flickering, slow motion, watermark",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-711203/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-711203/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-711203/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-711203/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 1558542,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "decat2025-604069",
@@ -3525,7 +4041,19 @@
   ],
   "prompt": "Style: cinematic macro fantasy, warm amber workshop lamp light, brass and glass textures, extreme close-ups, shallow depth of field, film grain.\n\n0-5s: One old watchmaker with a magnifying loupe over one eye opens a gold pocket watch on his wooden workbench at night, the dark window behind him showing a sleeping city, the viewer over his shoulder.\n\n5-10s: The viewer pushes into the open watch and reveals a tiny city built among the brass gears, with tiny lit windows and tiny people walking across the turning cogs in darkness, the watchmaker's tweezers lowering in and tightening one small screw.\n\n10-15s: A tiny sun rises over the gears inside the watch, the tiny city fills with morning light, and at the same moment real sunrise floods through the workshop window behind him, the watchmaker slowly looks up at the window, the viewer pulling back.\n\nNegative prompt: more than one watchmaker, digital watch, cartoon style, modern electronics, text, numbers, watermark, slow motion",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-604069/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-604069/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-604069/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-604069/poster.jpg",
+   "width": 1536,
+   "height": 672,
+   "duration_ms": 15083,
+   "bytes": 1984021,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "monetizationdon-146565",
@@ -3541,7 +4069,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-146565/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-146565/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-146565/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-146565/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 67846,
+   "bytes": 11019720,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "fantasistaai-967400",
@@ -3557,7 +4097,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/fantasistaai-967400/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/fantasistaai-967400/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/fantasistaai-967400/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/fantasistaai-967400/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 29000,
+   "bytes": 3510520,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "lettyvesper-113181",
@@ -3573,7 +4125,19 @@
   ],
   "prompt": "A cinematic, ultra-realistic fantasy scene featuring an adorable fluffy ginger-and-white kitten warrior wearing miniature silver medieval armor, a flowing cream-colored cape, and carrying a tiny sword, standing bravely in a misty green meadow facing a massive, fearsome dragon covered in dark, rugged scales, sharp horns, and powerful leathery wings. The camera captures dramatic low-angle shots, close-ups of the kitten gripping its sword, and intense shots of the dragon lowering its enormous head toward the tiny warrior. The kitten initially stands courageously, but as the dragon approaches, it becomes frightened and drops its sword, looking up with teary eyes and a trembling expression. Suddenly, the mood shifts from danger to tenderness as the dragon gently touches its snout against the kitten, revealing a surprising bond between them. The kitten embraces the dragon's enormous face affectionately, and the dragon closes its glowing amber eyes peacefully. Golden sunset light illuminates the meadow, creating a magical, emotional atmosphere with volumetric lighting, realistic fur and scales, detailed metallic armor, cinematic depth of field, smooth camera movements, dramatic wide shots, intimate close-ups, 4K photorealistic CGI, and an epic fantasy film aesthetic, transitioning from suspense and fear to warmth, friendship, and heartwarming emotional connection.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lettyvesper-113181/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lettyvesper-113181/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lettyvesper-113181/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lettyvesper-113181/poster.jpg",
+   "width": 480,
+   "height": 480,
+   "duration_ms": 15083,
+   "bytes": 757196,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "yama-kiyo-651687",
@@ -3589,7 +4153,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/yama-kiyo-651687/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/yama-kiyo-651687/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/yama-kiyo-651687/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/yama-kiyo-651687/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 24470,
+   "bytes": 1258242,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "endfolding79421-221726",
@@ -3605,7 +4181,19 @@
   ],
   "prompt": "r34l1sm\n\nThat night, a blood-red moon cast an eerie glow over the town, and an unsettling wind howled through the streets, causing chaos and fear among the residents. Unbeknownst to them, a malevolent force was awakening.\n\nIn the cemetery, the wind slowed until it reached Halie's grave, marked by her name. Within the ornate coffin, Halie lay motionless, trapped in a recurring nightmare.\n\nIn her mind, she relived the horrors of that night, the taunts, the violence, and the betrayal. Clutching the necklace Pablo had given her, it glowed with a sinister green light.\n\n\"Do you want revenge?\" a haunting voice whispered in her mind.\n\n\"Yes,\" Halie replied.\n\nHer body convulsed, and her eyes snapped open, fiery red with anger. She pounded against the coffin, shattering it, and emerged from the ground as a shadow.\n\nIn the moon's glow, Halie's transformation unfolded. Her skin turned ghostly white, her hair grew long and silver, and her attire morphed into a dark, seductive ensemble. Her once vibrant eyes were now solid black, devoid of life.\n\nWith a wicked grin, Halie commanded the wind to awaken her undead army. The ground shook as skeletal hands burst from the earth, and an army of the undead stood before her.\n\nThe undead soldiers were grotesque and fearsome. Their skin was pallid, stretched tightly over bone. Their eyes were hollow sockets that glowed with an eerie, malevolent light. Tattered clothing clung to their emaciated bodies, and their bony fingers twitched with a hunger for vengeance.\n\nHalie gazed upon her macabre soldiers, her black lips curling with anticipation for the night ahead. The undead army, driven by her will, awaited her command to unleash their unholy fury upon the town that had wronged her.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-221726/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-221726/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-221726/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-221726/poster.jpg",
+   "width": 1270,
+   "height": 720,
+   "duration_ms": 12250,
+   "bytes": 1172694,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "endfolding79421-087323",
@@ -3621,7 +4209,19 @@
   ],
   "prompt": "r34l1sm\n\nThe shrill beep of the alarm clock pierced the early morning silence, and Ted's hand moved almost reflexively to silence it. Lying in bed for a moment longer, he stared at the ceiling, the familiar cracks and patterns a testament to the years gone by.\n\n At 43, these mornings had become more about reflection than anticipation.\n\nBeside him, Elisa lay still, her presence more like a memory than a reality. He watched her, noticing how even in sleep, she seemed distant. A mix of sadness and resignation settling in his chest.\n\nHe remembered the early days, the laughter and shared dreams that filled this very room. Now, it felt like living with a ghost – her body was there, but everything else about her seemed far away.\n\nGently, so as not to wake her, Ted slid out of bed and began his morning routine. Brush teeth, shave, shower and finally dressing in front of the mirror; each step felt rehearsed, a silent dance he had mastered over the years.\n\nAs he dressed for work, his reflection in the mirror stared back at him—a reflection of a aging man caught in the mundanity of a 9-5 job, his dreams and aspirations dulled by the repetitive grind of daily life.\n\nHe looks at the bed reflecting in the mirror, his wife of nearly 17 years, slept soundly, her back turned to him. He remembered the days when they'd wake wrapped in each other's arms laughing and flirting never getting enough of each other.\n\nWhat happened to us? Ted pondered, his heart aching with a mix of longing and frustration. He missed the connection they once shared, missed the woman who used to look at him like he was the only one in the world and made him believe anything was possible.\n\nHe still loved his wife but, those days now seemed like distant memories.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-087323/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-087323/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-087323/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-087323/poster.jpg",
+   "width": 1270,
+   "height": 720,
+   "duration_ms": 12250,
+   "bytes": 1245124,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "jambomax-a-343585",
@@ -3637,7 +4237,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "jambomax-a-678000",
@@ -3653,7 +4257,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "eternityspring-028686",
@@ -3669,7 +4277,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/eternityspring-028686/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/eternityspring-028686/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/eternityspring-028686/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/eternityspring-028686/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 18133,
+   "bytes": 2890510,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "papadupapadu-933911",
@@ -3685,7 +4305,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-933911/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-933911/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-933911/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-933911/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 130000,
+   "bytes": 27691553,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "endfolding79421-700721",
@@ -3701,7 +4333,19 @@
   ],
   "prompt": "r34l1sm\n\nuse the woman in  <Picture 1> is lucy.\n\nLucy stepped out of the small diner where she worked, the doorbell jingling softly behind her. The night air was cool and crisp, a welcome change from the stuffy warmth inside. She took a deep breath, feeling the slight chill of the evening settle on her skin. The street was quiet, only the distant hum of traffic breaking the silence.\n\nHer shift had been long and exhausting, filled with the clatter of dishes and the constant chatter of customers. Now, the quiet seemed almost surreal, a stark contrast to the noise and chaos she had just left behind. Lucy adjusted her bag on her shoulder, glancing around as she began her walk home.\n\nThe dim streetlights cast long shadows across the pavement, their flickering bulbs adding an eerie quality to the otherwise peaceful night. Lucy's footsteps echoed softly, a rhythmic accompaniment to her thoughts. She felt a strange mix of relief and unease; relief that her shift was over, and unease that she had to walk home alone at this hour.\n\nShe tried to shake off the feeling, telling herself it was just her imagination. But as she walked, the sensation of being watched grew stronger. Lucy's eyes darted to the darkened alleyways and the shadowy corners of the street, half-expecting to see someone lurking there. Each time, there was nothing but the oppressive darkness.\n\nHer thoughts wandered to the events of the day, the usual frustrations of work blending with snippets of conversations she'd had with her coworkers. She thought of Megan, her closest friend at the diner, and their plans to go out together on the weekend. The thought brought a small smile to her lips, momentarily easing her tension.\n\nBut the feeling of being watched persisted. Lucy quickened her pace, her heartbeat matching the rapid rhythm of her footsteps. She turned down a quieter street, the buildings looming tall and silent on either side. The oppressive silence pressed in on her, amplifying every sound, every rustle of leaves, every distant car horn.\n\nA sudden noise behind her made Lucy stop in her tracks. She spun around, eyes wide, searching the shadows for the source. The street was empty, the only movement the gentle sway of a tree branch in the breeze. She stood there for a moment, heart pounding, before forcing herself to turn back and keep walking.\n\n\"It's just your imagination,\" she muttered under her breath, trying to steady her nerves. But the cold knot of fear in her stomach told her otherwise.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-700721/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-700721/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-700721/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/endfolding79421-700721/poster.jpg",
+   "width": 1270,
+   "height": 720,
+   "duration_ms": 12250,
+   "bytes": 1534678,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "earthgigantea-713438",
@@ -3717,7 +4361,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/earthgigantea-713438/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/earthgigantea-713438/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/earthgigantea-713438/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/earthgigantea-713438/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 88960,
+   "bytes": 12783970,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "posi-posi8-418870",
@@ -3733,7 +4389,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/posi-posi8-418870/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/posi-posi8-418870/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/posi-posi8-418870/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/posi-posi8-418870/poster.jpg",
+   "width": 1280,
+   "height": 536,
+   "duration_ms": 617176,
+   "bytes": 28815059,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sidodtv-953291",
@@ -3749,7 +4417,19 @@
   ],
   "prompt": "最近、日本では「ドパガキ」というネットミームがあります。\nドーパミンが沢山でるような派手な映像を沢山摂取している子供、という意味です。\n\nそこで「赤ずきんちゃん」を原作にしたAI生成アニメ「ドパガキんちゃん」を作りたいです。\n120秒。縦長サイズ。comfyuiとminimax h3で動画を作成。\nminimaxの高解像度で作ってから、フルHDにアップスケール。\nセリフあり。テロップも入れて\n\nストーリーは、原作に出てくる赤ずきんちゃん、おばあさん、狼は残しつつ、独自色を打ち出して。\nダークなストーリー。最後は意外な展開。\n\n最初に、キャラクターシートを作って。それを元に公式のminimax h3のプロンプト作成skillを使って指示を出して。\n1つのカットは最大15秒までしか作れないので、セリフやシーンをうまく分割して",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sidodtv-953291/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sidodtv-953291/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sidodtv-953291/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sidodtv-953291/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 120000,
+   "bytes": 18828109,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "lahuman-015215",
@@ -3765,7 +4445,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lahuman-015215/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lahuman-015215/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lahuman-015215/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lahuman-015215/poster.jpg",
+   "width": 1284,
+   "height": 720,
+   "duration_ms": 10125,
+   "bytes": 1900073,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "decat2025-832741",
@@ -3782,7 +4474,19 @@
   ],
   "prompt": "MiniMax H3. 15 seconds. 16:9. Five distinct cinematic camera setups. Epic photorealistic dark fantasy. Fast, powerful physical action, spectacular natural magic, clear transformation and a dramatic final payoff.\n\nSETTING: An ancient forest clearing surrounded by colossal twisted trees. Shafts of golden sunlight cut through emerald mist. One armored hunter with a steel crossbow faces an enormous luminous white stag with branching antlers. Behind the hunter, an approaching army of black-armored soldiers advances along a forest path.\n\n0:00–0:03 | LOW-ANGLE THREE-QUARTER SHOT\nThe hunter fires a crossbow bolt directly at the white stag. The stag catches the bolt between its antlers, snapping it in half with a violent twist of its head. The stag stamps one hoof into the earth. A circular shockwave ripples through the forest floor.\n0:03–0:05 | GROUND-LEVEL CLOSE SHOT\n\nThick living roots explode from the soil beneath the hunter. They coil around his boots, wrists and chest, wrenching the crossbow from his hands. The hunter struggles as the roots pull his body upright and immobilize him.\n0:05–0:09 | DYNAMIC SIDE ANGLE\nThe roots tear open the hunter's steel armor. His metal breastplate splits apart, and glowing wooden fibers grow through its broken sections. Massive roots climb his arms and shoulders, forming thick wooden armor around the SAME hunter. His silhouette grows taller and broader as his body becomes a towering living tree warrior.\n\n0:09–0:12 | RISING FRONT ANGLE\nThe transformation finishes. The hunter is now an enormous humanoid forest guardian, with a recognizable human-shaped helmet integrated into a massive wooden head, colossal bark-covered arms and steel armor fragments embedded throughout his body. The white stag stands beside his enormous feet. The newly transformed guardian turns toward the advancing black-armored army.\n0:12–0:15 | EPIC WIDE FRONTAL SHOT\n\nThe army charges into the clearing. The giant forest guardian slams both enormous fists into the earth. An immense wall of interlocking tree roots erupts vertically across the entire forest path, throwing the leading soldiers and their shields backward and sealing the route. The guardian rises behind the towering root barricade, completely blocking the army's advance.\nEnd on the colossal living guardian standing protectively over the luminous stag as the defeated army retreats beyond the barricade.\n\nVISUAL STYLE: Premium cinematic dark fantasy, realistic organic growth, heavy mechanical weight in the transformation, rich forest textures, dramatic shafts of sunlight, floating pollen, deep green shadows, glowing golden magical energy, immense scale contrast.\n\nCRITICAL CONTINUITY: One hunter, one white stag, one advancing army, one forest clearing. The original hunter transforms into the guardian. His armor visibly breaks and becomes embedded in the growing wooden body. The roots physically grow around him rather than a separate tree monster appearing. The army approaches from the same forest path throughout. The root wall rises between the guardian and the approaching army.\nNo dialogue, no subtitles, no text on screen. No eye reveals, portals or unrelated creatures.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-832741/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-832741/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-832741/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-832741/poster.jpg",
+   "width": 1536,
+   "height": 672,
+   "duration_ms": 15083,
+   "bytes": 3544688,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "decat2025-843786",
@@ -3800,7 +4504,19 @@
   ],
   "prompt": "Epic dark fantasy, ultra-cinematic realism, enormous scale, dramatic physical transformation. A lone knight in battered silver armor stands on a rocky ridge facing a massive cracked mountain. The mountain dominates the horizon. Glowing orange fissures run through its stone surface. Heavy storm clouds, airborne dust, powerful backlighting.\n\nSHOT 1 | 0–3s | LOW WIDE ANGLE\nThe knight plants his sword into the rock as the ground shudders. Across the valley, enormous cracks tear through the mountain. A deep rumble shakes loose entire cliffs. The knight looks up as the mountain begins to move.\n\nSHOT 2 | 3–6s | EXTREME WIDE AERIAL\nThe mountain splits along massive geometric fractures. Two gigantic stone arms emerge from its sides and push against the valley floor. Its summit rises into a broad, armored head and torso. The mountain unfolds into a colossal stone guardian, towering above the surrounding peaks.\n\nSHOT 3 | 6–9s | GROUND-LEVEL UPWARD ANGLE\nThe giant extends one enormous open stone hand toward the knight, palm facing upward. Orange energy streams from the guardian's palm toward the knight. The knight's armor begins glowing white-hot, his body and planted sword merging into one brilliant vertical column of fire.\n\nSHOT 4 | 9–12s | DYNAMIC THREE-QUARTER ANGLE\nThe column of fire contracts into a gigantic blazing sword hovering above the knight's now-empty position. The stone guardian closes its enormous fingers around the sword's hilt. Flames explode outward as the guardian lifts the weapon high above its head.\n\nSHOT 5 | 12–15s | EXTREME LOW WIDE ANGLE\nThe awakened mountain guardian stands fully upright, gripping the immense burning sword. It swings the blade once across the storm clouds.\nA gigantic arc of fire tears through the sky, illuminating the entire mountain range. The guardian freezes in a monumental victorious pose as thunder rolls.\n\nCUT TO BLACK.\nCAMERA, PHYSICS AND CONTINUITY\nFive distinct cinematic shots. One knight, one mountain, one stone guardian. The guardian forms entirely from the original mountain. The knight transforms completely into the sword; no second knight remains. Maintain correct relative scale and coherent spatial positions. Every movement has massive weight and momentum. Clear transformation stages, readable silhouettes, natural rock displacement, dust and debris responding to impacts.\n\nAUDIO AND RESTRICTIONS\nDeep subterranean rumbles, cracking stone, thunder, rising orchestral strings, colossal metallic resonance as the sword forms, thunderous final impact. No dialogue. No on-screen text. No extra creatures, no duplicate limbs, no floating disconnected body parts, no eyes appearing in the landscape.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-843786/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-843786/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-843786/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-843786/poster.jpg",
+   "width": 1536,
+   "height": 672,
+   "duration_ms": 15083,
+   "bytes": 2682863,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "snicklink-131765",
@@ -3816,7 +4532,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/snicklink-131765/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/snicklink-131765/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/snicklink-131765/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/snicklink-131765/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 242739,
+   "bytes": 30599003,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "hvplan-196938",
@@ -3832,7 +4560,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hvplan-196938/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hvplan-196938/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hvplan-196938/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hvplan-196938/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 79424,
+   "bytes": 6082848,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "decat2025-847266",
@@ -3850,7 +4590,19 @@
   ],
   "prompt": "Photorealistic science fiction, enormous cinematic scale.\n\nSHOT 1 | 0–3s | STREET LEVEL\nA busy futuristic city under a beautiful blue sky. Suddenly an enormous rectangular shadow slides across the skyscrapers.\n\nSHOT 2 | 3–6s | UPWARD POV\nGigantic mechanical claws descend from above the clouds and grip an invisible rectangular section of the sky.\n\nSHOT 3 | 6–9s | WIDE ANGLE\nThe claws pull downward. The blue sky tears away as a massive rigid panel, revealing black industrial machinery behind it.\n\nSHOT 4 | 9–12s | ROOFTOP CAMERA\nMultiple sky panels detach in succession. Their enormous shadows race across the city while giant maintenance arms move between the exposed sections.\n\nSHOT 5 | 12–15s | EXTREME WIDE\nThe camera rises above the city, revealing its entire horizon enclosed inside an unimaginably large mechanical sphere. A vast central mechanism begins rotating.\n\nGrounded scale, immense machinery, realistic shadows and atmospheric perspective, thunderous metallic sound. No dialogue, no text.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-847266/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-847266/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-847266/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-847266/poster.jpg",
+   "width": 720,
+   "height": 960,
+   "duration_ms": 15083,
+   "bytes": 1990861,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "eternityspring-249666",
@@ -3866,7 +4618,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/eternityspring-249666/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/eternityspring-249666/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/eternityspring-249666/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/eternityspring-249666/poster.jpg",
+   "width": 1344,
+   "height": 652,
+   "duration_ms": 110041,
+   "bytes": 16010244,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "crapthings-068504",
@@ -3882,7 +4646,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/crapthings-068504/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/crapthings-068504/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/crapthings-068504/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/crapthings-068504/poster.jpg",
+   "width": 720,
+   "height": 960,
+   "duration_ms": 130000,
+   "bytes": 11001674,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "m-heroine-freak-493338",
@@ -3898,7 +4674,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/m-heroine-freak-493338/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/m-heroine-freak-493338/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/m-heroine-freak-493338/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/m-heroine-freak-493338/poster.jpg",
+   "width": 1080,
+   "height": 720,
+   "duration_ms": 8708,
+   "bytes": 1010404,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "hexxrl-344813",
@@ -3915,7 +4703,11 @@
   ],
   "prompt": "Create a sarcastically funny cartoon short about FOMO trading, using only VidMuse.\n\nFormat: 16:9, 2560×1440, 24fps, approximately 28–30 seconds and always under 45 seconds. Generate animation with MiniMax Hailuo H3 at 1440p.\n\nKeep all profanity uncensored. Deliver connected phrases with dry sarcasm, growing frustration, impulsive excitement, then defeated deadpan. Avoid a rushed monotone or long artificial pauses.  Visual style: Deliberately shitty Wojak/MS-Paint cartoon animation: uneven black outlines, flat colors, stiff poses, cheap snap movements, awkward expressions and crude animation that adds to the humor. Avoid polished 3D.  Main character: A consistent pale, bald, long-nosed Wojak wearing a gray hoodie and black trousers. Begin calm. As FOMO builds, add forehead stress lines, sweat and eye bags. After buying, give him dense forehead hatching, tiny pupils and an exaggerated panic expression. Finish with a hollow, defeated stare. Setting: A shabby beige apartment with a lumpy blue couch on the left, crooked brown desk on the right, bare hanging bulb and crooked empty picture frame. Keep the character, outfit, props and setting consistent.  Build the character references, expressions, props, storyboard frames, animation clips and voice sections separately before assembling. Spoken script:  “Apparently everyone's a fucking trader now. Dave buys stocks. Up. My mate buys gold. Up. Some dickhead buys oil. Up. He thinks crude is a personality trait.  I wait. I do research. It goes up another thirty percent. Fine. I'll buy a little.”  [BUY click. Brief half-second pause. Giant red candle crash.]  “Gone. Not a dip. A fucking crime scene.  Suddenly everyone's a long-term investor. Mate, I bought forty seconds ago. I'm not a trader. I'm the fucking sell signal.” Visual beats: Show smug winning traders with stocks, gold and oil while everything rises. Cut to Wojak anxiously researching and watching green charts. Show his finger buying, then immediately reveal an enormous red candle and escalating panic. Finish with him slumped against the couch, holding his crashed portfolio. Music: Add a quiet, cheeky instrumental cartoon track with pizzicato, detuned marimba, goofy bass and sparse wooden percussion. No vocals. Keep it beneath the narration. Drop it out for the BUY/crash and crime-scene joke, then bring it back quietly. Fade out at the ending.  Subtitles: Align captions to the actual final narration, phrase by phrase. Group each “Up” with its preceding sentence for readability. Use one subtitle layer, bold white text with a black outline and safe bottom margins. Make the final “I'm the fucking sell signal” caption red. Edit to the narration’s natural timing. Keep the BUY click synchronized with the action, let the crash appear before “Gone,” and hold approximately 0.6 seconds after the final spoken word.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "tkz-aiart-049408",
@@ -3931,7 +4723,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tkz-aiart-049408/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tkz-aiart-049408/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tkz-aiart-049408/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tkz-aiart-049408/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 8000,
+   "bytes": 860633,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "adrfazenda-078268",
@@ -3947,7 +4751,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/adrfazenda-078268/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/adrfazenda-078268/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/adrfazenda-078268/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/adrfazenda-078268/poster.jpg",
+   "width": 720,
+   "height": 1260,
+   "duration_ms": 71520,
+   "bytes": 8247386,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "photox86-805663",
@@ -3963,7 +4779,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/photox86-805663/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/photox86-805663/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/photox86-805663/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/photox86-805663/poster.jpg",
+   "width": 1290,
+   "height": 720,
+   "duration_ms": 30441,
+   "bytes": 3516013,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "newdvn2025-575157",
@@ -3979,7 +4807,19 @@
   ],
   "prompt": "15 秒，16:9，写实悬疑电影短片《雪线来信》。同一位约 35 岁的东亚女信使，短黑发，右眉有一道淡疤，深绿色旧防寒服，橙色帆布邮袋，黑色手套；全片保持相同脸部、衣服和邮袋。蓝调黎明，雪原上的废弃铁路信号站，唯一暖光来自站内钨丝灯。低饱和冷蓝与暖黄，轻微胶片颗粒，真实皮肤与积雪质感。\n\n[镜头1，0–3秒] 远景，约35mm视角。摄影机缓慢横移，一位信使沿埋在雪里的铁轨走近信号站。邮袋轻撞胯侧，脚印从画外连续延伸到她脚下。她看到窗内灯光，放慢脚步。\n[镜头2，3–5.5秒] 切至手部特写，约85mm视角。她从邮袋抽出一封被融雪浸湿的信，信封上的红色蜡封已经裂开；纸面没有可读文字。风把信封边角掀起，她用拇指压住。切镜由抽信动作衔接。\n[镜头3，5.5–8.5秒] 中近景，侧面跟拍。她推开结霜的门，先探肩，再迈步进入。摄影机随她穿过门框，光线从冷蓝自然变为暖黄。她停住，目光落向画外的桌面。\n[镜头4，8.5–11.5秒] 越肩中景。桌上摆着一只铜制信号灯，灯旁有一枚与她信封相同的破裂红蜡封。摄影机缓慢推进；她把信放在蜡封旁，手指停顿，随后转头看窗外。\n[镜头5，11.5–15秒] 切至她的侧脸近景，缓慢侧移显露结霜窗外。远处山脊上一盏微小暖光闪亮一次。她轻吸一口气，握紧邮袋背带，向门口迈出一步。在动作尚未结束时收尾。\n\n保持空间方向、人物身份和道具外观连贯。风吹碎发，呼吸白雾、衣料和灯焰持续自然运动。声音：雪地脚步、纸张摩擦、旧门轴、远处一声金属铃响。无对白、无配乐、无字幕、无标识或水印。不要静止摆拍，不要把各镜头混成叠化。",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/newdvn2025-575157/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/newdvn2025-575157/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/newdvn2025-575157/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/newdvn2025-575157/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 1624878,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "umino-chibi-615514",
@@ -3995,7 +4835,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/umino-chibi-615514/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/umino-chibi-615514/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/umino-chibi-615514/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/umino-chibi-615514/poster.jpg",
+   "width": 894,
+   "height": 720,
+   "duration_ms": 28233,
+   "bytes": 3263146,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "victormustar-892818",
@@ -4011,7 +4863,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/victormustar-892818/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/victormustar-892818/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/victormustar-892818/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/victormustar-892818/poster.jpg",
+   "width": 850,
+   "height": 720,
+   "duration_ms": 8867,
+   "bytes": 472990,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "hemi3ai-608274",
@@ -4027,7 +4891,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-608274/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-608274/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-608274/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-608274/poster.jpg",
+   "width": 480,
+   "height": 864,
+   "duration_ms": 15083,
+   "bytes": 1341496,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "decat2025-711637",
@@ -4045,7 +4921,19 @@
   ],
   "prompt": "A ruined multi-level Japanese fortress during a storm. Two adult rival fighters, one carrying a katana, the other fighting with a short blade and fists. Everything is pure black, white, and grayscale: characters, bloodless injuries, rain, lightning, fire smoke, architecture, debris.\n\nAbsolute visual rule: Color exists ONLY for the exact instant of a successful sword collision, punch, kick, or physical strike. Each impact creates a violent saturated color shockwave originating precisely from the contact point. The color disappears immediately after the strike.\n\n0–3s | VERTICAL DROP: Camera plunges straight down through a shattered roof. The fighters are already battling while FALLING through the collapsing building. The swordsman kicks off a tumbling beam and attacks in midair. The opponent blocks.\nIMPACT: violent RED flash.\nThe collision throws both fighters in opposite directions.\n\n3–6s | WALL RUN: One lands sideways against a vertical wall and runs across it as the structure collapses beneath him. The other swings from a hanging chain, releases, and flies directly toward him. Sword meets short blade.\nIMPACT: explosive ELECTRIC BLUE slash of color.\nThe wall fractures from the force.\nBoth DROP through it.\n\n6–9s | INTERIOR CHAOS: They crash through paper walls into a narrow corridor without stopping. Close-range fight while sprinting. Sword blocked. YELLOW. Elbow to ribs. MAGENTA. Spinning kick into chest. CYAN. Blade collision inches from a face. VIOLET.\nEvery impact is separated by pure monochrome frames. Color never remains in the environment.\nThe final kick sends one fighter through the corridor wall.\n\n9–12s | EXTERIOR FALL: He falls toward a lower rooftop. The swordsman dives after him blade-first. Camera falls beside them. The lower fighter twists in midair and catches the descending sword between his short blade and forearm guard.\nIMPACT: enormous ORANGE circular shockwave.\nRoof tiles below them blast outward before they even land.\nThey crash through the roof together.\n\n12–15s | FINAL EXCHANGE: Inside the dark room below, both hit the floor, roll apart and instantly charge.\nRapid extreme close-ups:\nFoot plants.\nHand tightens around sword.\nEyes lock.\nTwo blades accelerate.\nCLASH.\n\nA gigantic multicolored impact fractures across the monochrome frame like stained glass.\nBut behind the explosion, the fist fighter has already slipped inside the swordsman's guard.\nHe drives one devastating punch into his opponent's chest.\n\nPURE WHITE FRAME → single concentrated CRIMSON impact.\nAll color dies instantly.\nWide shot.\nBoth fighters stand motionless in the destroyed monochrome room.\nA beat.\nThe swordsman's katana snaps in half.\nCUT TO BLACK.\n\nVisual style: premium theatrical anime, detailed hand-drawn ink work, extreme perspective, aggressive foreshortening, speed-line deformation, impact frames, controlled motion smears, rain and debris reacting physically to movement, rapid but clearly readable choreography. No colored backgrounds, no colored atmosphere, no colored lightning, no glowing weapons. ONLY strikes create color. No dialogue. No text. No famous faces.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-711637/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-711637/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-711637/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-711637/poster.jpg",
+   "width": 1536,
+   "height": 672,
+   "duration_ms": 15083,
+   "bytes": 3775651,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sep-is-heim-683057",
@@ -4061,7 +4949,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sep-is-heim-683057/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sep-is-heim-683057/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sep-is-heim-683057/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sep-is-heim-683057/poster.jpg",
+   "width": 822,
+   "height": 720,
+   "duration_ms": 5184,
+   "bytes": 590628,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "lnkiai-151002",
@@ -4077,7 +4977,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lnkiai-151002/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lnkiai-151002/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lnkiai-151002/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/lnkiai-151002/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 139136,
+   "bytes": 17950125,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "dokko57932483-325661",
@@ -4093,7 +5005,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dokko57932483-325661/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dokko57932483-325661/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dokko57932483-325661/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dokko57932483-325661/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15104,
+   "bytes": 2436171,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tokyo-valentine-834854",
@@ -4111,7 +5035,19 @@
   ],
   "prompt": "MiniMax H3 Prompt\nsubject_definitions:\n<Subject 1> is A from <Picture 1>, who fires and sustains the beam.\n<Subject 2> is B from <Picture 2>, who converts it into a rainbow and takes a selfie.\nPreserve exact reference faces, hairstyles, costumes, accessories, colors, proportions and illustrated styles. Keep equal standing heights, excluding ornaments.\n<Audio 1> supplies the voice timbre and natural pitch range of <Subject 1> (S1). Use its vocal identity, not its recorded words. B never vocalizes; leave any B voice reference unused.\nsummary:\n[reference generation + audio reference] A 15-second Japanese 2D anime action-comedy. A fires a spectacular white energy beam. B has already positioned a small triangular prism in its path. The beam enters the prism and emerges as a huge rainbow arch. B takes a selfie with the rainbow while holding the prism steady. End on A's familiar silent, stunned face as she continues powering the beam. Use the selected aspect ratio.\nretention_analysis:\n<Subject 1> (Shots 1, 2, 4): fully_preserved - reference identity and design, new actions.\n<Subject 2> (Shots 1-3): fully_preserved - reference identity and design, new actions.\n<Audio 1>: reference - A's single opening sentence.\nImages define appearance and style, not poses, backgrounds or reference-sheet layouts.\ndetailed_description:\nHand-drawn 2D anime, clean linework, cel shading, fluid movement and expressive faces. An empty stone plaza under a dark blue dusk sky. Exactly two people: A screen-left, B screen-right, eight meters apart at equal camera depth on level ground. Keep consistent scale and screen direction.\nA projects ONE sustained white beam toward screen-right at chest height. A narrow brilliant core, smaller than the prism face, has an enormous turbulent luminous envelope.\n\nB holds ONE twenty-centimeter triangular glass prism in her LEFT hand, gripping its lower edge clear of the optical faces. Extend it toward A and forward of her torso, keeping the beam clear of her body.\nAt the prism, the glow converges into the core. White light enters one face; seven colors emerge upward into a huge magical rainbow arch behind B. Keep the hands-to-prism-to-rainbow connection visible. No white beam passes through toward B.\n\nB's RIGHT hand holds ONE plain smartphone. For the selfie, extend this arm toward camera with the screen facing herself. No hand switching, floating objects, readable screen or selfie-image insert.\n[Shot 1] Open on a wide full-body two-shot showing the eight-meter gap. A braces her feet and brings both palms forward. A white energy sphere rapidly gathers between them, throwing sharp light onto the paving. Her hair and costume flutter in the growing pressure.\nDuring 0.3-2.8 seconds, <Subject 1> (S1), using <Audio 1>'s voice timbre, confidently declares, [Japanese] このいちげきで、おわりだ! Synchronize her lips with this sentence and finish before three seconds. Her mouth closes into a proud smile.\nB holds the phone low at her right hip and calmly positions the left-hand prism at chest height in the future beam path BEFORE A fires.\nBy four seconds, the attack is fully charged and the prism is ready. No moving beam has crossed the gap yet.\n\n[Shot 2] At 00:04.000, cut to a stable wide three-quarter side view showing both characters, the full beam path, the prism and open sky. Keep the established left-to-right direction.\nA fires. The beam crosses eight meters within a few animation frames and hits the ALREADY positioned prism. No slow projectile or reaction after launch. Show contact clearly using the sustained beam.\n\nIn this continuous shot, show the white core entering the glass. At that exact contact, seven clearly separated colored bands emerge upward: red, orange, yellow, green, blue, indigo and violet. The bands form one brilliant rainbow arch overhead within about one second. Its base remains visibly connected to the prism.\n\nStop the dramatic music as the rainbow appears. Replace the aggressive impact expectation with a delicate glass chime. No explosion, shattered glass, collision with B or rainbow appearing independently elsewhere.\n\nBetween six and eight seconds, hold A's grand attack pose, the huge beam, B's tiny prism and the rainbow together. A keeps supplying the beam with both arms extended.\n\nB smiles at the rainbow and raises her right-hand phone. Her left arm and prism stay fixed; the beam and rainbow remain stable.\n\n[Shot 3] At 00:08.000, cut to a medium three-quarter view of B, including her face, both hands, prism contact, phone and rainbow. Keep the beam below her face and preserve screen direction.\n\nB extends her right arm for the selfie, keeping her torso still and turning only her head toward the screen. She smiles and taps the screen with her right thumb.\n\nOne quiet camera shutter click around ten seconds confirms the selfie. No flash obscuring the scene, phone-screen insert, speech or peace sign: both hands already have a job.\n\nB admires the screen while holding the prism steady. White light continues entering and colors exit upward; offscreen A still powers the beam.\n\n[Shot 4] At 00:12.000, cut to a frontal close-up of A from slightly beside the beam axis. Include her extended forearms and the white light leaving her palms at the lower frame edge. She remains in her original place, still sustaining the attack. Colored reflections softly tint her face.\n\nA looks toward B taking the selfie. Her proud smile disappears. Her eyes widen, pupils become small and eyebrows lift. Her lips part slightly once, then remain still. Use her familiar stunned, uncomprehending expression. No crying, blush, anger or exaggerated panic.\n\nSlowly push in; hold the final full second. Arms extended, A still powers B's photo. End on her silent face without beam shutdown, retaliation or extra gag.\n\noverall_soundscape:\nExactly one spoken sentence, by A in Shot 1. B never vocalizes. After three seconds, no dialogue, narration, gasps, screams, grunts, laughter or vocal breaths.\nUse a rising magical charge, one sharp launch sound and a sustained beam hum. At prism contact, add one delicate glass chime and lower the hum enough for the selfie shutter to be clearly heard. Continue the quiet hum and faint plaza ambience through the final close-up, matching the ongoing beam.\n\nnon_diegetic_music:\nGrand instrumental brass, strings and percussion build during charging and launch. Stop when the rainbow emerges. No music afterward. No choir, vocal samples, comedy sting or canned laughter.\n\nNo text, subtitles, logos, watermarks, HUD, extra characters, duplicates, extra prisms or phones, disconnected rainbow, slow-moving beam, hand switching, extra limbs or fingers, fused hands, changing body scale, costume redesign, injury, photorealism, 3D rendering or chibi redesign.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-834854/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-834854/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-834854/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tokyo-valentine-834854/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 1290931,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "blitzondemand-539365",
@@ -4127,7 +5063,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/blitzondemand-539365/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/blitzondemand-539365/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/blitzondemand-539365/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/blitzondemand-539365/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 27833,
+   "bytes": 5159929,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ionescugabrie61-368695",
@@ -4143,7 +5091,19 @@
   ],
   "prompt": "Create an enchanting scene of a big, green garden with a sense of wonder and magic. Place the tiny bean seed at the center, full of hope and curiosity, looking up at the bright sky with stars shining down.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ionescugabrie61-368695/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ionescugabrie61-368695/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ionescugabrie61-368695/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ionescugabrie61-368695/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 6592,
+   "bytes": 405124,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "jasminaai-878853",
@@ -4160,7 +5120,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/jasminaai-878853/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/jasminaai-878853/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/jasminaai-878853/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/jasminaai-878853/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 55232,
+   "bytes": 9133468,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "caningum-126600",
@@ -4176,7 +5148,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/caningum-126600/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/caningum-126600/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/caningum-126600/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/caningum-126600/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 15018,
+   "bytes": 1217192,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sash02jp-997813",
@@ -4192,7 +5176,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sash02jp-997813/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sash02jp-997813/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sash02jp-997813/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sash02jp-997813/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 17250,
+   "bytes": 1658597,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "kevinleguillou-612792",
@@ -4208,7 +5204,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kevinleguillou-612792/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kevinleguillou-612792/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kevinleguillou-612792/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kevinleguillou-612792/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 20361,
+   "bytes": 2485644,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "risingsunint-733402",
@@ -4224,7 +5232,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/risingsunint-733402/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/risingsunint-733402/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/risingsunint-733402/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/risingsunint-733402/poster.jpg",
+   "width": 720,
+   "height": 820,
+   "duration_ms": 133916,
+   "bytes": 13620028,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "onofumi-ai-278859",
@@ -4241,7 +5261,19 @@
   ],
   "prompt": "【Shot 1｜0〜2.5秒】\n斜め前から二人を捉える。\n女の子は宿題に苛立ち、肩を丸め、鉛筆を強く握る。こめかみの赤い怒りマークが脈打つ。\n女の子「あー、もう！」\n男の子は隣で静かに勉強を続ける。\n\n【Shot 2｜2.5〜5秒】\n女の子を正面から捉えるミディアムショット。\n頭を後ろに反らし、顔が一気にギャグ顔へ変わる。閉じた三角目、大きく開いた四角い口、額の紫色のストレス線、赤い頬。髪が外側へ揺れ、青い汗の粒が飛び出す。\n女の子「全然わかんない！」\n微妙な怒り顔ではなく、はっきりデフォルメする。\n\n【Shot 3｜5〜8秒】\n二人が見える広めの正面ショット。\n女の子が自分の机を両拳で一度叩き、拳を肩の高さで振る。三角目と大きな叫び口を維持。\n頭上にオレンジ色の怒りの稲妻マーク。頭の両側から大きな白い漫画的な蒸気が噴き出す。プリントが舞い、筆箱と消しゴムが軽く跳ねる。\n女の子「もう、勉強なんて嫌い！」\n男の子は鉛筆を止め、半目で横を見てため息をつく。隣の席に座ったまま。\n\n【Shot 4｜8〜10秒】\n女の子の机を捉える。\n急に力が抜け、拳を下ろし、肩を落としてノートに突っ伏す。蒸気と稲妻が消え、大きな青い汗マークが現れる。\n額が机に当たる軽い音。紙がゆっくり落ち着く。突っ伏した姿勢で少し間を置き、小さくうめく。\n\n【Shot 5｜10〜13秒】\n二人の顔が見えるミディアムショット。\n男の子は自分の机に肘をつき、片眉を上げ、女の子のノートへ視線を向ける。\n男の子「さっき教えたとこじゃん。」\n少し呆れているが、親しみのある軽い小言。\n女の子は一瞬固まり、ゆっくり顔を上げて横目で睨む。顔は通常の繊細なアニメ顔に戻り、半目、赤い頬、不機嫌な口元になる。\n\n【Shot 6｜13〜15秒】\n女の子の斜め前からのクローズアップ。\n男の子へ少し顔を向け、頬を膨らませ、ノートの端を握る。赤い怒りマークが最後に一度脈打つ。\n女の子「わかってるし。」\n声は小さく、不機嫌で少し照れている。ため息をつき、ノートへ顎を下げる。ふくれ顔で終了。",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/onofumi-ai-278859/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/onofumi-ai-278859/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/onofumi-ai-278859/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/onofumi-ai-278859/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15104,
+   "bytes": 1784854,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "decat2025-227082",
@@ -4258,7 +5290,19 @@
   ],
   "prompt": "15-second anime sequence, 2D cel-shaded shōnen anime style, bold linework, dramatic lighting, comedic tone, consistent character design throughout.\n\nExactly one cat: a chubby orange tabby with big green eyes. Exactly one glass of water on a wooden kitchen table.\n\n[0-5s] Wide shot of a quiet kitchen. The orange tabby sits on the table beside the glass of water, staring at it intensely. Dramatic wind blows its fur even though the window is closed. The viewer slowly pushes in.\n\n[5-10s] Extreme close-up on the cat's eyes, glowing with a fiery orange aura, speed lines bursting behind it. Its paw rises slowly, trembling with power, like a hero preparing a final attack.\n\n[10-15s] The paw gently taps the glass with one tiny touch. The glass slides off the edge and falls out of frame. The aura instantly vanishes and the cat sits back calmly, blinking innocently at the viewer, perfectly satisfied.\n\nNegative prompt: extra cats, duplicate glasses, extra paws, extra legs, distorted face, warped body, photorealistic, 3D render, morphing, flickering, inconsistent fur color, humans, text, watermark",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-227082/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-227082/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-227082/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/decat2025-227082/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 2150204,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tekitou115330-845484",
@@ -4274,7 +5318,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tekitou115330-845484/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tekitou115330-845484/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tekitou115330-845484/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tekitou115330-845484/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 27250,
+   "bytes": 6703528,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "nyaa-toraneko-874761",
@@ -4290,7 +5346,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-874761/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-874761/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-874761/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-874761/poster.jpg",
+   "width": 720,
+   "height": 1290,
+   "duration_ms": 3041,
+   "bytes": 659485,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "nyaa-toraneko-338035",
@@ -4306,7 +5374,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-338035/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-338035/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-338035/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-338035/poster.jpg",
+   "width": 1290,
+   "height": 720,
+   "duration_ms": 2333,
+   "bytes": 317428,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tk2works-410053",
@@ -4322,7 +5402,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tk2works-410053/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tk2works-410053/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tk2works-410053/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tk2works-410053/poster.jpg",
+   "width": 640,
+   "height": 1120,
+   "duration_ms": 8000,
+   "bytes": 661781,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "oohiro35-686155",
@@ -4339,7 +5431,19 @@
   ],
   "prompt": "subject_definitions:\n<Picture 1> defines Oohiro-chan, an adult office worker. Preserve her long black hair, blue gemstone and black feather hair ornament, black jacket, white collared blouse, and greige skirt. Replace her normal facial proportions with the exaggerated manga expression described below. One character only.\n\nsummary:\n[reference generation] A five-second Japanese gag-anime close-up. Oohiro-chan remains frozen in an intensely distorted, sweating expression throughout the entire clip. The first frame already shows the complete gag face, and the last frame retains it.\n\nretention_analysis:\n<Picture 1>: partially_preserved — Preserve the recognizable hair silhouette, ornament, and office clothing. Deliberately replace the normal eyes, eyebrows, and mouth with bold manga symbols. Keep the face expressive rather than realistically anatomical.\n\ndetailed_description:\nOne uninterrupted frontal close-up, from the upper chest to the top of the hair. Locked camera.\nBoth eyes are enormous, uneven white shapes, wider than normal and bulging toward the temples. The upper contours arch upward while the lower contours remain almost horizontal. Each eye contains only a tiny black pin-dot pupil; blue irises are absent throughout. The pupils make two short sideways jumps, then hold rigidly. Do not blink or close the eyes.\nThe thick eyebrows bend sharply downward toward the bridge of the nose, forming an exaggerated, tense V. Dense vertical ink lines run from the forehead between the eyes. The forehead lines tremble slightly without disappearing.\nThe mouth is stretched across almost the entire lower face: a broad, crooked, tightly clenched grimace. One corner sits higher than the other. A thin curved line separates the compressed upper and lower teeth, with three short tooth-division marks near one corner. The jaw quivers laterally in tiny, abrupt movements. During speech, the clenched mouth separates only slightly, maintaining its extremely wide, crooked silhouette.\nLarge teardrop-shaped sweat beads cover the forehead, temples, cheeks, and neck. Two beads slowly slide downward; fresh beads swell at the temples. The shoulders remain raised and tense.\nThe background is already a flat white graphic field with an irregular scalloped halo of gray halftone dots surrounding the hair and shoulders. The halo expands and contracts in two small, abrupt pulses. No office scenery appears.\nAt 0.4 seconds, she says <d>[Japanese]えっ、定時！？</d>\nAt 2.5 seconds, she says <d>[Japanese]まだ仕事あるの！？</d>\nMaintain the enlarged white eyes, pin-dot pupils, crooked clenched mouth, sweat, and halftone halo for all five seconds. No normal face, recovery shot, camera movement, captions, speech bubbles, or written text.\n\noverall_soundscape:\nOne young adult Japanese female voice, strained and bewildered. Speak only the two specified lines. A brief dry comic rattle accompanies the jaw tremor. No additional speech.\n\nnon_diegetic_music:\nNone.\nFinish all spoken syllables before 4.7 seconds. Preserve the original exaggerated face and background through the final silent moment.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-686155/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-686155/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-686155/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-686155/poster.jpg",
+   "width": 480,
+   "height": 864,
+   "duration_ms": 5056,
+   "bytes": 274816,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "oohiro35-070225",
@@ -4357,7 +5461,19 @@
   ],
   "prompt": "subject_definitions:\n<Picture 1> defines Oohiro-chan, an adult office worker on the right. Preserve her long black hair, blue gemstone and black feather hair ornament, black jacket, white collared blouse, and greige skirt. On the left, slightly behind her, is a distinct adult female coworker with a shoulder-length light brown bob and a red cardigan over a white blouse. Exactly two adults. Both are looking at an unseen drawing just outside the lower-left edge of the frame.\n\nsummary:\n[reference generation] A five-second Japanese deadpan gag-anime two-shot. Two office workers stare at a confusing drawing with simplified, half-lidded, emotionally flat faces. The visual gag is restrained facial simplification and an awkward pause, not a screaming or shocked expression. Both faces already have this treatment in the first frame and keep it through the final frame.\n\nretention_analysis:\n<Picture 1>: partially_preserved — Preserve Oohiro-chan's identifying hair, hair ornament, office clothing, and adult appearance. Simplify facial rendering, reduce visible iris area, and suppress normal sparkling anime eyes. Preserve two separate identities and their left-right positions.\n\ndetailed_description:\nOne uninterrupted locked chest-up two-shot. Oohiro-chan is larger in the right foreground, with the coworker smaller on the left behind her. Both turn their faces slightly toward the lower left. Their shoulders hang loosely; their posture is still and mildly slumped. Do not show the drawing, a corpse, a raft, or any object inferred from the dialogue.\n\nOohiro-chan's eyelids are heavy, nearly straight horizontal strokes descending toward the outer corners. Each upper lid covers most of the iris, leaving only a narrow white opening and a short dark vertical pupil, with at most a tiny muted blue sliver. The lower eye contours are short and thin. Remove bright eye highlights and elaborate eyelashes. The eyebrows are thin, almost level lines, without an angry V or dramatic raised arches. Keep the nose to one very short mark and the cheeks largely unshaded. Her mouth is a tiny, slightly tilted horizontal oval, only a small fraction of the face width. There are no exposed teeth, large tongue, or oversized black mouth cavity.\n\nThe coworker has the same low-density deadpan treatment: narrow half-lidded eyes, short dark pupils, flat eyebrows, a minimal nose mark, and a tiny oval mouth. Her brow remains relaxed. Neither person opens her eyes wider during the exchange. They do not become cute chibi figures, angry grotesques, or realistic portraits.\n\nAt the start, both hold the half-lidded stare. Oohiro-chan's pupils shift a tiny distance downward toward the unseen drawing, then stop. During each line, the speaking character's mouth alternates between a short slit and a small oval with minimal jaw movement; it never becomes a normal expressive smile or a large shouting mouth. The non-speaking character remains nearly motionless with her tiny mouth slightly open. The coworker makes one restrained sideways eye movement toward Oohiro-chan. A single small U-shaped sweat bead appears near the coworker's temple and creeps down slightly. There is no blinking into a different expression.\n\n0.0–1.3 seconds, Oohiro-chan murmurs, sounding unsettled but visually deadpan:\n<d>[Japanese]なんか怖い、この表…。</d>\n1.3–3.6 seconds, the coworker asks in a dry, matter-of-fact voice:\n<d>[Japanese]全部、今日までなの？</d>\n3.6–5.0 seconds, Oohiro-chan replies more firmly while retaining the same small-mouth, half-lidded face:\n<d>[Japanese]来月の予定だよ。</d>\n\nThe background is a flat manga graphic composition from the first frame onward: a solid black region behind the upper-right hair silhouette, sparse diagonal white hatching within that dark region, and a mostly white lower-left field with a few thin diagonal black strokes. Keep it graphic and empty, without an office, scenery, lettering, speech bubbles, or inset panels. At the final reply, three short fine background strokes appear briefly on the left, then stop; do not replace the background with flames, bright colors, or dense action lines.\n\nMaintain the restrained half-lidded eyes, tiny mouths, simplified noses, relaxed brows, slumped shoulders, and two-person layout for all five seconds. No normal-expression setup or recovery, no large reaction face, no camera movement, no captions, and no written text.\n\noverall_soundscape:\nTwo distinct adult Japanese female voices. A quiet, dry exchange with restrained delivery, followed by a firmer correction. Speak only the three specified lines, with no extra narration or speech. Faint indoor room tone and a very small dry tick on the final reply.\n\nnon_diegetic_music:\nNone.\nFinish all spoken syllables before 4.7 seconds. Preserve the original exaggerated face and background through the final silent moment.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-070225/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-070225/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-070225/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-070225/poster.jpg",
+   "width": 480,
+   "height": 864,
+   "duration_ms": 5000,
+   "bytes": 241587,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "nyaa-toraneko-024287",
@@ -4373,7 +5489,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-024287/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-024287/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-024287/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyaa-toraneko-024287/poster.jpg",
+   "width": 1288,
+   "height": 720,
+   "duration_ms": 29250,
+   "bytes": 6911319,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "nullfoundry-265357",
@@ -4389,7 +5517,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nullfoundry-265357/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nullfoundry-265357/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nullfoundry-265357/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nullfoundry-265357/poster.jpg",
+   "width": 864,
+   "height": 480,
+   "duration_ms": 10125,
+   "bytes": 855909,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "oohiro35-432145",
@@ -4407,7 +5547,19 @@
   ],
   "prompt": "subject_definitions:\n<Picture 1> defines Oohiro-chan, an adult office worker with long black hair, a blue gemstone and black feather hair ornament, black jacket, white collared blouse, and greige skirt. Keep her recognizable hairstyle, ornament, and outfit while exaggerating only the specified facial features and acting. Any coworker is a separate adult with brown hair and a red cardigan, never a duplicate of Oohiro-chan.\n\nsummary:\n[reference generation] A five-second Japanese manga-inspired gag-anime reaction. The stylized expression is present in the first frame and persists through the final frame. No normal-expression setup or recovery ending.\n\nretention_analysis:\n<Picture 1>: partially_preserved — Keep hair, ornament, and clothing identity. Replace normal eyes, mouth proportions, facial shading, and background with the requested manga symbols. Prioritize readable graphic expressions over realistic facial anatomy.\n\ndetailed_description:\nOne uninterrupted locked medium shot of Oohiro-chan on the right foreground, with one smaller brown-bob red-cardigan adult coworker on the left background. Exactly two people. Oohiro-chan holds a small sealed oval honey container with both hands just below her mouth, tilted upward. Keep the same container attached to her hands throughout; it does not duplicate or melt.\nOohiro-chan's eyes are tightly closed upward-curving crescent lines, with no visible irises. Her eyebrows form soft delighted arcs. Three short diagonal blush strokes mark each cheek. Her lips form a small protruding puckered circle that gently touches the outside of the container, then separates by a tiny distance. Her chin lifts slightly and her shoulders squeeze inward in a delighted pose. She makes two small rocking motions, keeping the happy crescent eyes throughout.\nThe coworker has matching closed crescent eyes and a broad, simple open smiling mouth, showing no realistic dental detail. Her shoulders bounce once in amused delight.\nThe background is a pale gray stippled and softly mottled graphic field, not a room. Several small pastel-pink heart symbols float upward at different heights. At the announcement, the hearts briefly grow slightly, then continue drifting. No caption heading is rendered.\nAt 0.2–2.2 seconds, Oohiro-chan announces <d>[Japanese]ごほうび、確保！</d>\nAt 2.3–4.7 seconds, the coworker replies <d>[Japanese]それ、明日の分だよ。</d>\nRetain the happy crescent eyes, blush strokes, puckered lips or smiling open mouth, and heart background until the end.\nNo captions, speech bubbles, narration boxes, written dialogue, office scenery, duplicate bodies, or split screen. Do not return to ordinary sparkling blue anime eyes or a neutral standard mouth. Preserve the specified expression treatment throughout, including the very last frame.\n\noverall_soundscape:\nNatural adult Japanese female voices. Speak only the dialogue explicitly specified above, assigned to the indicated speaker. Compact delivery fitting five seconds. No additional dialogue or narration. Small dry comic sound accents and faint room tone.\n\nnon_diegetic_music:\nNone.\nFinish all spoken syllables before 4.7 seconds. Preserve the original exaggerated face and background through the final silent moment.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-432145/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-432145/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-432145/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/oohiro35-432145/poster.jpg",
+   "width": 480,
+   "height": 864,
+   "duration_ms": 5166,
+   "bytes": 308090,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "rares52-l-438629",
@@ -4423,7 +5575,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/rares52-l-438629/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/rares52-l-438629/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/rares52-l-438629/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/rares52-l-438629/poster.jpg",
+   "width": 640,
+   "height": 640,
+   "duration_ms": 15375,
+   "bytes": 1726806,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "souhiro-meem-ch-796413",
@@ -4439,7 +5603,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/souhiro-meem-ch-796413/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/souhiro-meem-ch-796413/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/souhiro-meem-ch-796413/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/souhiro-meem-ch-796413/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 70320,
+   "bytes": 10025214,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "wasabivaio-652614",
