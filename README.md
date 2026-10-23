@@ -7,24 +7,24 @@
 
 Viral videos made with **MiniMax H3** — cinematic shorts, ads, anime and music videos generated straight from a prompt. Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 440 videos on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos)**
+**[▶ Watch all 464 videos on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
 Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [Grok Imagine](https://github.com/billyhetech/awesome-grok-imagine-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos)
 
-**112 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-minimax-h3-videos/issues/new?template=submit-video.yml)
+**113 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-minimax-h3-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-23): 440 videos total
+- Latest update (2026-10-23): 464 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Cinematic shorts](#cinematic-shorts) (255)
+- [Cinematic shorts](#cinematic-shorts) (268)
 - [Ads & brand films](#ads--brand-films) (8)
-- [Anime & animation](#anime--animation) (69)
-- [Music videos](#music-videos) (74)
-- [Motion graphics](#motion-graphics) (34)
+- [Anime & animation](#anime--animation) (72)
+- [Music videos](#music-videos) (79)
+- [Motion graphics](#motion-graphics) (37)
 - [Long-form](#long-form) (0)
 - [Latest videos](#latest-videos)
 
@@ -37,7 +37,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/peking-opera-camera-push?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/pixelaigc-253191/preview.webp" alt="MiniMax H3 video by @PixelAigc" width="100%"></a><br><a href="https://x.com/PixelAigc/status/2102426880016253191"><b>@PixelAigc</b></a> · <a href="prompts/pixelaigc-253191.md">Prompt</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/h3-camera-control-gaussian-splat?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/martinnebelong-366843/preview.webp" alt="MiniMax H3 video by @MartinNebelong" width="100%"></a><br><a href="https://x.com/MartinNebelong/status/2102735883019366843"><b>@MartinNebelong</b></a> · <a href="prompts/martinnebelong-366843.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/sam-3d-consistent-camera-change?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/mickmumpitz-358121/preview.webp" alt="MiniMax H3 video by @mickmumpitz" width="100%"></a><br><a href="https://x.com/mickmumpitz/status/2100976491496358121"><b>@mickmumpitz</b></a> · <a href="prompts/mickmumpitz-358121.md">Details</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ See all 255 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=cinematic)
+[▶ See all 268 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=cinematic)
 
 ## Ads & brand films
 
@@ -56,7 +56,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/vidmuse-fomo-wojak-cartoon-production-brief?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>VidMuse FOMO Wojak Cartoon Production Brief</b></a><br><a href="https://x.com/HexxRL/status/2112348729357344813"><b>@HexxRL</b></a> · <a href="prompts/hexxrl-344813.md">Prompt</a><br><sub>AI video · Multi-shot</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/animated-parakeet-stickers?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>Animated Parakeet Stickers</b></a><br><a href="https://x.com/umino_chibi/status/2095413170416615514"><b>@umino_chibi</b></a> · <a href="prompts/umino-chibi-615514.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/video-game-sprites?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>Video-Generated Game Sprites</b></a><br><a href="https://x.com/victormustar/status/2089310616854892818"><b>@victormustar</b></a> · <a href="prompts/victormustar-892818.md">Details</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ See all 69 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=anime)
+[▶ See all 72 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=anime)
 
 ## Music videos
 
@@ -67,7 +67,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/portos-music-video-iteration?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>PortOS Music Video Iteration</b></a><br><a href="https://x.com/antic/status/2105308913872896056"><b>@antic</b></a> · <a href="prompts/antic-896056.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/hedcut-color-release-music-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>Hedcut Color Release Music Video</b></a><br><a href="https://x.com/Michaelzsguo/status/2104705711674683715"><b>@Michaelzsguo</b></a> · <a href="prompts/michaelzsguo-683715.md">Prompt</a><br><sub>AI video · Native audio · Multi-shot</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/halloween-h3-music3-workflow?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>Halloween H3 and Music3 Workflow</b></a><br><a href="https://x.com/mi7_crypto/status/2105355850701533623"><b>@mi7_crypto</b></a> · <a href="prompts/mi7-crypto-533623.md">Details</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ See all 74 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=music-videos)
+[▶ See all 79 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=music-videos)
 
 ## Motion graphics
 
@@ -78,7 +78,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/h3-max-motion-design-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>H3 Max Motion Design Comparison</b></a><br><a href="https://x.com/AI_RESKILL/status/2102982320211087394"><b>@AI_RESKILL</b></a> · <a href="prompts/ai-reskill-087394.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/hyperframes-camera-angle-graphics?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>HyperFrames Camera Angle Graphics</b></a><br><a href="https://x.com/ai_ai_ailover/status/2104148793688052037"><b>@ai_ai_ailover</b></a> · <a href="prompts/ai-ai-ailover-052037.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/idea-traffic-pop-art-typography?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>Idea Traffic Pop Art Typography</b></a><br><a href="https://x.com/su_nagomi/status/2103959566371451271"><b>@su_nagomi</b></a> · <a href="prompts/su-nagomi-451271.md">Prompt</a><br><sub>AI video · Native audio</sub></td></tr>
 </table>
 
-[▶ See all 34 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=motion)
+[▶ See all 37 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=motion)
 
 ## Long-form
 

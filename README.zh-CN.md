@@ -7,24 +7,24 @@
 
 用 **MiniMax H3** 生成的爆款 AI 视频合集 —— 电影感短片、广告、动漫与音乐视频,一段 prompt 直接生成。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 440 条视频](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos)**
+**[▶ 在 clawshelf.com 观看全部 464 条视频](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
 其他单模型专集:[Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [Grok Imagine](https://github.com/billyhetech/awesome-grok-imagine-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos)
 
-[`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **112 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-minimax-h3-videos/issues/new?template=submit-video.yml)
+[`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **113 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-minimax-h3-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-23):共 440 条
+- 最近更新(2026-10-23):共 464 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [电影感短片](#电影感短片) (255)
+- [电影感短片](#电影感短片) (268)
 - [广告与品牌片](#广告与品牌片) (8)
-- [动漫与动画](#动漫与动画) (69)
-- [音乐视频](#音乐视频) (74)
-- [动态图形](#动态图形) (34)
+- [动漫与动画](#动漫与动画) (72)
+- [音乐视频](#音乐视频) (79)
+- [动态图形](#动态图形) (37)
 - [长片](#长片) (0)
 - [最新收录](#最新收录)
 
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/peking-opera-camera-push?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/pixelaigc-253191/preview.webp" alt="MiniMax H3 video by @PixelAigc" width="100%"></a><br><a href="https://x.com/PixelAigc/status/2102426880016253191"><b>@PixelAigc</b></a> · <a href="prompts/pixelaigc-253191.md">提示词</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/h3-camera-control-gaussian-splat?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/martinnebelong-366843/preview.webp" alt="MiniMax H3 video by @MartinNebelong" width="100%"></a><br><a href="https://x.com/MartinNebelong/status/2102735883019366843"><b>@MartinNebelong</b></a> · <a href="prompts/martinnebelong-366843.md">详情</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/sam-3d-consistent-camera-change?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/mickmumpitz-358121/preview.webp" alt="MiniMax H3 video by @mickmumpitz" width="100%"></a><br><a href="https://x.com/mickmumpitz/status/2100976491496358121"><b>@mickmumpitz</b></a> · <a href="prompts/mickmumpitz-358121.md">详情</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 255 条](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=cinematic)
+[▶ 在 clawshelf.com 查看全部 268 条](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=cinematic)
 
 ## 广告与品牌片
 
@@ -56,7 +56,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/vidmuse-fomo-wojak-cartoon-production-brief?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>VidMuse FOMO Wojak Cartoon Production Brief</b></a><br><a href="https://x.com/HexxRL/status/2112348729357344813"><b>@HexxRL</b></a> · <a href="prompts/hexxrl-344813.md">提示词</a><br><sub>AI video · Multi-shot</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/animated-parakeet-stickers?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>Animated Parakeet Stickers</b></a><br><a href="https://x.com/umino_chibi/status/2095413170416615514"><b>@umino_chibi</b></a> · <a href="prompts/umino-chibi-615514.md">详情</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/video-game-sprites?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>Video-Generated Game Sprites</b></a><br><a href="https://x.com/victormustar/status/2089310616854892818"><b>@victormustar</b></a> · <a href="prompts/victormustar-892818.md">详情</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 69 条](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=anime)
+[▶ 在 clawshelf.com 查看全部 72 条](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=anime)
 
 ## 音乐视频
 
@@ -67,7 +67,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/portos-music-video-iteration?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>PortOS Music Video Iteration</b></a><br><a href="https://x.com/antic/status/2105308913872896056"><b>@antic</b></a> · <a href="prompts/antic-896056.md">详情</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/hedcut-color-release-music-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>Hedcut Color Release Music Video</b></a><br><a href="https://x.com/Michaelzsguo/status/2104705711674683715"><b>@Michaelzsguo</b></a> · <a href="prompts/michaelzsguo-683715.md">提示词</a><br><sub>AI video · Native audio · Multi-shot</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/halloween-h3-music3-workflow?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>Halloween H3 and Music3 Workflow</b></a><br><a href="https://x.com/mi7_crypto/status/2105355850701533623"><b>@mi7_crypto</b></a> · <a href="prompts/mi7-crypto-533623.md">详情</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 74 条](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=music-videos)
+[▶ 在 clawshelf.com 查看全部 79 条](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=music-videos)
 
 ## 动态图形
 
@@ -78,7 +78,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/h3-max-motion-design-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>H3 Max Motion Design Comparison</b></a><br><a href="https://x.com/AI_RESKILL/status/2102982320211087394"><b>@AI_RESKILL</b></a> · <a href="prompts/ai-reskill-087394.md">详情</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/hyperframes-camera-angle-graphics?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>HyperFrames Camera Angle Graphics</b></a><br><a href="https://x.com/ai_ai_ailover/status/2104148793688052037"><b>@ai_ai_ailover</b></a> · <a href="prompts/ai-ai-ailover-052037.md">详情</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/idea-traffic-pop-art-typography?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><b>Idea Traffic Pop Art Typography</b></a><br><a href="https://x.com/su_nagomi/status/2103959566371451271"><b>@su_nagomi</b></a> · <a href="prompts/su-nagomi-451271.md">提示词</a><br><sub>AI video · Native audio</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 34 条](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=motion)
+[▶ 在 clawshelf.com 查看全部 37 条](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=motion)
 
 ## 长片
 
