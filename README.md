@@ -7,24 +7,24 @@
 
 Viral videos made with **MiniMax H3** — cinematic shorts, ads, anime and music videos generated straight from a prompt. Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 464 videos on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos)**
+**[▶ Watch all 482 videos on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
 Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [Grok Imagine](https://github.com/billyhetech/awesome-grok-imagine-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos)
 
-**113 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-minimax-h3-videos/issues/new?template=submit-video.yml)
+**118 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-minimax-h3-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-23): 464 videos total
+- Latest update (2026-10-24): 482 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Cinematic shorts](#cinematic-shorts) (268)
+- [Cinematic shorts](#cinematic-shorts) (279)
 - [Ads & brand films](#ads--brand-films) (8)
-- [Anime & animation](#anime--animation) (72)
-- [Music videos](#music-videos) (79)
-- [Motion graphics](#motion-graphics) (37)
+- [Anime & animation](#anime--animation) (73)
+- [Music videos](#music-videos) (83)
+- [Motion graphics](#motion-graphics) (39)
 - [Long-form](#long-form) (0)
 - [Latest videos](#latest-videos)
 
@@ -37,7 +37,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/peking-opera-camera-push?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/pixelaigc-253191/preview.webp" alt="MiniMax H3 video by @PixelAigc" width="100%"></a><br><a href="https://x.com/PixelAigc/status/2102426880016253191"><b>@PixelAigc</b></a> · <a href="prompts/pixelaigc-253191.md">Prompt</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/h3-camera-control-gaussian-splat?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/martinnebelong-366843/preview.webp" alt="MiniMax H3 video by @MartinNebelong" width="100%"></a><br><a href="https://x.com/MartinNebelong/status/2102735883019366843"><b>@MartinNebelong</b></a> · <a href="prompts/martinnebelong-366843.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/sam-3d-consistent-camera-change?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/mickmumpitz-358121/preview.webp" alt="MiniMax H3 video by @mickmumpitz" width="100%"></a><br><a href="https://x.com/mickmumpitz/status/2100976491496358121"><b>@mickmumpitz</b></a> · <a href="prompts/mickmumpitz-358121.md">Details</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ See all 268 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=cinematic)
+[▶ See all 279 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=cinematic)
 
 ## Ads & brand films
 
@@ -56,7 +56,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/animated-parakeet-stickers?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/umino-chibi-615514/preview.webp" alt="MiniMax H3 video by @umino_chibi" width="100%"></a><br><a href="https://x.com/umino_chibi/status/2095413170416615514"><b>@umino_chibi</b></a> · <a href="prompts/umino-chibi-615514.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/video-game-sprites?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/victormustar-892818/preview.webp" alt="MiniMax H3 video by @victormustar" width="100%"></a><br><a href="https://x.com/victormustar/status/2089310616854892818"><b>@victormustar</b></a> · <a href="prompts/victormustar-892818.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/local-character-part-shot-reel?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-608274/preview.webp" alt="MiniMax H3 video by @Hemi3AI" width="100%"></a><br><a href="https://x.com/Hemi3AI/status/2101843853913608274"><b>@Hemi3AI</b></a> · <a href="prompts/hemi3ai-608274.md">Details</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ See all 72 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=anime)
+[▶ See all 73 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=anime)
 
 ## Music videos
 
@@ -67,7 +67,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/halloween-h3-music3-workflow?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/mi7-crypto-533623/preview.webp" alt="MiniMax H3 video by @mi7_crypto" width="100%"></a><br><a href="https://x.com/mi7_crypto/status/2105355850701533623"><b>@mi7_crypto</b></a> · <a href="prompts/mi7-crypto-533623.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/little-adventure-local-music-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/mi-mi-mi-mimi-421226/preview.webp" alt="MiniMax H3 video by @_mi_mi_mi_mimi_" width="100%"></a><br><a href="https://x.com/_mi_mi_mi_mimi_/status/2105394753374421226"><b>@_mi_mi_mi_mimi_</b></a> · <a href="prompts/mi-mi-mi-mimi-421226.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/lrc-storyboard-hiragana-lip-sync?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-573242/preview.webp" alt="MiniMax H3 video by @Naonekozamurai" width="100%"></a><br><a href="https://x.com/Naonekozamurai/status/2103613013953573242"><b>@Naonekozamurai</b></a> · <a href="prompts/naonekozamurai-573242.md">Details</a><br><sub>AI video · Native audio</sub></td></tr>
 </table>
 
-[▶ See all 79 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=music-videos)
+[▶ See all 83 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=music-videos)
 
 ## Motion graphics
 
@@ -78,7 +78,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/h3-max-motion-design-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/ai-reskill-087394/preview.webp" alt="MiniMax H3 video by @AI_RESKILL" width="100%"></a><br><a href="https://x.com/AI_RESKILL/status/2102982320211087394"><b>@AI_RESKILL</b></a> · <a href="prompts/ai-reskill-087394.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/hyperframes-camera-angle-graphics?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/ai-ai-ailover-052037/preview.webp" alt="MiniMax H3 video by @ai_ai_ailover" width="100%"></a><br><a href="https://x.com/ai_ai_ailover/status/2104148793688052037"><b>@ai_ai_ailover</b></a> · <a href="prompts/ai-ai-ailover-052037.md">Details</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/minimax-h3/idea-traffic-pop-art-typography?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos"><img src="https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-451271/preview.webp" alt="MiniMax H3 video by @su_nagomi" width="100%"></a><br><a href="https://x.com/su_nagomi/status/2103959566371451271"><b>@su_nagomi</b></a> · <a href="prompts/su-nagomi-451271.md">Prompt</a><br><sub>AI video · Native audio</sub></td></tr>
 </table>
 
-[▶ See all 37 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=motion)
+[▶ See all 39 on clawshelf.com](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos&category=motion)
 
 ## Long-form
 
@@ -86,6 +86,24 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-minimax-
 
 ## Latest videos
 
+- [Four Model Film Grading Comparison](https://clawshelf.com/ai-videos/minimax-h3/four-model-film-grading-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@DrSadek_](https://x.com/DrSadek_/status/2112899416273338476) · [Details](prompts/drsadek-338476.md)
+- [Spider Teabag Fixed Camera Revision](https://clawshelf.com/ai-videos/minimax-h3/spider-teabag-fixed-camera-revision?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@GlennHasABeard](https://x.com/GlennHasABeard/status/2113339112677679426) · [Prompt](prompts/glennhasabeard-679426.md)
+- [Blender Backflip Depth and Post Zoom](https://clawshelf.com/ai-videos/minimax-h3/blender-backflip-depth-post-zoom?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@johnferret3](https://x.com/johnferret3/status/2113822787832000571) · [Details](prompts/johnferret3-000571.md)
+- [Parkour Previs to Run Jump Roll and Vault](https://clawshelf.com/ai-videos/minimax-h3/parkour-previs-run-jump-roll-vault?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@jjjContinue](https://x.com/jjjContinue/status/2113827821336584637) · [Details](prompts/jjjcontinue-584637.md)
+- [FastH3 V2 Farmhouse Basement Horror](https://clawshelf.com/ai-videos/minimax-h3/fasth3-v2-farmhouse-basement-horror?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@cocktailpeanut](https://x.com/cocktailpeanut/status/2113641509220221350) · [Prompt](prompts/cocktailpeanut-221350.md)
+- [Office Shredder Confetti Storm](https://clawshelf.com/ai-videos/minimax-h3/office-shredder-confetti-storm?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@pompompokopomch](https://x.com/pompompokopomch/status/2113778403052822578) · [Details](prompts/pompompokopomch-822578.md)
+- [Cafe Split Bill Five Shot Character Lock](https://clawshelf.com/ai-videos/minimax-h3/cafe-split-bill-five-shot-character?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@wuzhu_](https://x.com/wuzhu_/status/2113816793982828555) · [Prompt](prompts/wuzhu-828555.md)
+- [Noah Escape Twist versus Shove Iteration](https://clawshelf.com/ai-videos/minimax-h3/noah-escape-twist-versus-shove-iteration?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@ai_t2i_231](https://x.com/ai_t2i_231/status/2113601336117731568) · [Details](prompts/ai-t2i-231-731568.md)
+- [FastH3 Omni Bus Door Reference Correction](https://clawshelf.com/ai-videos/minimax-h3/fasth3-omni-bus-door-reference-correction?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@Alone1Moon](https://x.com/Alone1Moon/status/2113752575728111979) · [Details](prompts/alone1moon-111979.md)
+- [Mass Effect Outfit Transfer in Progress](https://clawshelf.com/ai-videos/minimax-h3/mass-effect-outfit-transfer-progress?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@TheRealOmgItsGB](https://x.com/TheRealOmgItsGB/status/2113787254141497564) · [Details](prompts/therealomgitsgb-497564.md)
+- [Zombie Cosplay MP3 to MCP Music Video](https://clawshelf.com/ai-videos/minimax-h3/zombie-cosplay-mp3-mcp-music-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@seisei_ai_1st](https://x.com/seisei_ai_1st/status/2113644940496634212) · [Prompt](prompts/seisei-ai-1st-634212.md)
+- [Earlier Music Video Remade with H3](https://clawshelf.com/ai-videos/minimax-h3/earlier-music-video-remade-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@reflecat](https://x.com/reflecat/status/2113645356127047706) · [Details](prompts/reflecat-047706.md)
+- [Code and H3 Keyframes for a Music Board](https://clawshelf.com/ai-videos/minimax-h3/code-h3-keyframes-music-board?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@akiyoshisan](https://x.com/akiyoshisan/status/2113666041268359455) · [Details](prompts/akiyoshisan-359455.md)
+- [RTX 5060 Eight Background Dance Study](https://clawshelf.com/ai-videos/minimax-h3/rtx-5060-eight-background-dance-study?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@hiwise_aigc](https://x.com/hiwise_aigc/status/2113790072785133933) · [Details](prompts/hiwise-aigc-133933.md)
+- [Lantern Magic and Unwanted Speech](https://clawshelf.com/ai-videos/minimax-h3/lantern-magic-unwanted-speech?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@Hemi3AI](https://x.com/Hemi3AI/status/2113782435699884516) · [Details](prompts/hemi3ai-884516.md)
+- [Antigravity Band Dialogue Background Drift](https://clawshelf.com/ai-videos/minimax-h3/antigravity-band-dialogue-background-drift?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@konnyakuimoko12](https://x.com/konnyakuimoko12/status/2113799346416456037) · [Details](prompts/konnyakuimoko12-456037.md)
+- [HACH MODE Thirteen Shot Fashion Typography](https://clawshelf.com/ai-videos/minimax-h3/hach-mode-thirteen-shot-fashion-typography?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@ai_lifehack55](https://x.com/ai_lifehack55/status/2112383945132413143) · [Prompt](prompts/ai-lifehack55-413143.md)
+- [MCP Glossy MiniMax Letterform Animation](https://clawshelf.com/ai-videos/minimax-h3/mcp-glossy-minimax-letterform-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@Naonekozamurai](https://x.com/Naonekozamurai/status/2113820272537325895) · [Details](prompts/naonekozamurai-325895.md)
 - [Continuous Micro-FPV Noir Orbit](https://clawshelf.com/ai-videos/minimax-h3/continuous-micro-fpv-noir-orbit?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@CharaspowerAI](https://x.com/CharaspowerAI/status/2090091561506009588) · [Prompt](prompts/charaspowerai-009588.md)
 - [Rainy Manhattan Police Chase](https://clawshelf.com/ai-videos/minimax-h3/rainy-manhattan-police-chase?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2103181604793598138) · [Prompt](prompts/goodmanprotocol-598138.md)
 - [Bubble-to-Firefly Chain Reaction](https://clawshelf.com/ai-videos/minimax-h3/bubble-firefly-chain-reaction?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@GlennHasABeard](https://x.com/GlennHasABeard/status/2103242003915948064) · [Prompt](prompts/glennhasabeard-948064.md)
@@ -98,24 +116,6 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-minimax-
 - [Peking Opera Camera Push](https://clawshelf.com/ai-videos/minimax-h3/peking-opera-camera-push?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@PixelAigc](https://x.com/PixelAigc/status/2102426880016253191) · [Prompt](prompts/pixelaigc-253191.md)
 - [H3 Camera Control to Gaussian Splat](https://clawshelf.com/ai-videos/minimax-h3/h3-camera-control-gaussian-splat?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@MartinNebelong](https://x.com/MartinNebelong/status/2102735883019366843) · [Details](prompts/martinnebelong-366843.md)
 - [Single-Image Ferrari Ad Refinement](https://clawshelf.com/ai-videos/minimax-h3/single-image-ferrari-ad-refinement?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@Quinn_Codes](https://x.com/Quinn_Codes/status/2102662974863471088) · [Details](prompts/quinn-codes-471088.md)
-- [SAM 3D Consistent Camera Change](https://clawshelf.com/ai-videos/minimax-h3/sam-3d-consistent-camera-change?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@mickmumpitz](https://x.com/mickmumpitz/status/2100976491496358121) · [Details](prompts/mickmumpitz-358121.md)
-- [First Last Frame 360 Orbit](https://clawshelf.com/ai-videos/minimax-h3/first-last-frame-360-orbit?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@pabloadaw](https://x.com/pabloadaw/status/2104057399892156885) · [Details](prompts/pabloadaw-156885.md)
-- [360 Equirectangular Video](https://clawshelf.com/ai-videos/minimax-h3/360-equirectangular-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@wildmindai](https://x.com/wildmindai/status/2105276125677265243) · [Details](prompts/wildmindai-265243.md)
-- [Gourmet Pizza Exploded Ad](https://clawshelf.com/ai-videos/minimax-h3/gourmet-pizza-exploded-ad?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@Refiner_Studio](https://x.com/Refiner_Studio/status/2105300807113400711) · [Prompt](prompts/refiner-studio-400711.md)
-- [AI Museum Continuous FPV Flight](https://clawshelf.com/ai-videos/minimax-h3/ai-museum-continuous-fpv-flight?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@HexxRL](https://x.com/HexxRL/status/2105490839866921377) · [Prompt](prompts/hexxrl-921377.md)
-- [Blender Driver View Terrain Analysis](https://clawshelf.com/ai-videos/minimax-h3/blender-driver-view-terrain-analysis?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@IsekaiBardGuild](https://x.com/IsekaiBardGuild/status/2103806447364776221) · [Details](prompts/isekaibardguild-776221.md)
-- [Neon City to Sunrise Journey](https://clawshelf.com/ai-videos/minimax-h3/neon-city-sunrise-journey?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@laviniavelle](https://x.com/laviniavelle/status/2104411770840633535) · [Prompt](prompts/laviniavelle-633535.md)
-- [Wet Alley Delayed Collapse](https://clawshelf.com/ai-videos/minimax-h3/wet-alley-delayed-collapse?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@ou_zhen599](https://x.com/ou_zhen599/status/2104547403751997464) · [Prompt](prompts/ou-zhen599-997464.md)
-- [H3 Max Single Shot Camera Test](https://clawshelf.com/ai-videos/minimax-h3/h3-max-single-shot-camera-test?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@nbykos](https://x.com/nbykos/status/2105779847368982612) · [Details](prompts/nbykos-982612.md)
-- [Bottle Bubble Slow Growth](https://clawshelf.com/ai-videos/minimax-h3/bottle-bubble-slow-growth?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@GlennHasABeard](https://x.com/GlennHasABeard/status/2105803641085153589) · [Prompt](prompts/glennhasabeard-153589.md)
-- [First Person Sword Flight Transfer Test](https://clawshelf.com/ai-videos/minimax-h3/first-person-sword-flight-transfer-test?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@Soranlan](https://x.com/Soranlan/status/2104585979575329235) · [Prompt](prompts/soranlan-329235.md)
-- [Four Cinematic Techniques in Real and Anime](https://clawshelf.com/ai-videos/minimax-h3/four-cinematic-techniques-real-anime?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@tkvtk](https://x.com/tkvtk/status/2104749191667019924) · [Details](prompts/tkvtk-019924.md)
-- [First Middle Last Frame Reference Control](https://clawshelf.com/ai-videos/minimax-h3/first-middle-last-frame-reference-control?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@fal](https://x.com/fal/status/2106092410480574785) · [Details](prompts/fal-574785.md)
-- [Demolition Mistake Timed Collapse](https://clawshelf.com/ai-videos/minimax-h3/demolition-mistake-timed-collapse?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@DeCat2025](https://x.com/DeCat2025/status/2106148973409128565) · [Prompt](prompts/decat2025-128565.md)
-- [Pagani Highway Image to Video Promo](https://clawshelf.com/ai-videos/minimax-h3/pagani-highway-image-video-promo?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@minaxlab](https://x.com/minaxlab/status/2106204831362744681) · [Details](prompts/minaxlab-744681.md)
-- [Line Art 360 Orbit LoRA](https://clawshelf.com/ai-videos/minimax-h3/line-art-360-orbit-lora?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@shamimatsu](https://x.com/shamimatsu/status/2106545212550271217) · [Details](prompts/shamimatsu-271217.md)
-- [RTX 5070 Rooftop Biomechanical Transformation](https://clawshelf.com/ai-videos/minimax-h3/rtx-5070-rooftop-biomechanical-transformation?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@Tomw852](https://x.com/Tomw852/status/2106575030641463391) · [Prompt](prompts/tomw852-463391.md)
-- [Shaved Ice Miniature Ski Slope](https://clawshelf.com/ai-videos/minimax-h3/shaved-ice-miniature-ski-slope?utm_source=github&utm_medium=readme&utm_campaign=awesome-minimax-h3-videos) — [@GlennHasABeard](https://x.com/GlennHasABeard/status/2105652270608142409) · [Prompt](prompts/glennhasabeard-142409.md)
 
 ## How to use a prompt
 
